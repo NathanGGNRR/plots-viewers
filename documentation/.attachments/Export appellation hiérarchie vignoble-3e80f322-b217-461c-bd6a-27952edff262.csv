@@ -1,0 +1,1550 @@
+Id,Nom de l'appellation,Hiérarchie,Vignoble
+1,Agenais,IGP,Agen
+2,Ajaccio,Communale,Corse
+3,Aloxe-Corton,Communale,Côte de Beaune
+4,Aloxe-Corton Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+5,Aloxe-Corton Premier Cru Clos des Maréchaudes,Premier Cru,Côte de Beaune
+6,Aloxe-Corton Premier Cru Clos du Chapitre,Premier Cru,Côte de Beaune
+7,Aloxe-Corton Premier Cru La Coutière,Premier Cru,Côte de Beaune
+8,Aloxe-Corton Premier Cru La Maréchaude,Premier Cru,Côte de Beaune
+9,Aloxe-Corton Premier Cru La Toppe au Vert,Premier Cru,Côte de Beaune
+10,Aloxe-Corton Premier Cru Les Chaillots blanc,Premier Cru,Côte de Beaune
+11,Aloxe-Corton Premier Cru Les Fournières,Premier Cru,Côte de Beaune
+12,Aloxe-Corton Premier Cru Les Guérets,Premier Cru,Côte de Beaune
+13,Aloxe-Corton Premier Cru Les Maréchaudes,Premier Cru,Côte de Beaune
+14,Aloxe-Corton Premier Cru Les Moutottes,Premier Cru,Côte de Beaune
+15,Aloxe-Corton Premier Cru Les Paulands,Premier Cru,Côte de Beaune
+16,Aloxe-Corton Premier Cru Les Petites Folières,Premier Cru,Côte de Beaune
+17,Aloxe-Corton Premier Cru Les Valozières,Premier Cru,Côte de Beaune
+18,Aloxe-Corton Premier Cru Les Vercots,Premier Cru,Côte de Beaune
+19,Alpes-de-Haute-Provence,IGP,Provence
+20,Alpes-Maritimes,IGP,Provence
+21,Alpilles,IGP,Provence
+22,Alsace,Régionale,Alsace
+23,Alsace Bergheim,Communale,Alsace
+24,Alsace Blienschwiller,Communale,Alsace
+25,Alsace Coteaux du Haut Koenigsbourg,Communale,Alsace
+26,Alsace Côte de Rouffach,Communale,Alsace
+27,Alsace Côtes de Barr,Communale,Alsace
+28,Alsace Grand Cru Altenberg de Bergbieten,Grand Cru,Bas-Rhin
+29,Alsace Grand Cru Altenberg de Bergheim,Grand Cru,Bas-Rhin
+30,Alsace Grand Cru Altenberg de Wolxheim,Grand Cru,Bas-Rhin
+31,Alsace Grand Cru Brand,Grand Cru,Bas-Rhin
+32,Alsace Grand Cru Bruderthal,Grand Cru,Bas-Rhin
+33,Alsace Grand Cru Eichberg,Grand Cru,Bas-Rhin
+34,Alsace Grand Cru Engelberg,Grand Cru,Bas-Rhin
+35,Alsace Grand Cru Florimont,Grand Cru,Bas-Rhin
+36,Alsace Grand Cru Frankstein,Grand Cru,Bas-Rhin
+37,Alsace Grand Cru Froehn,Grand Cru,Bas-Rhin
+38,Alsace Grand Cru Furstentum,Grand Cru,Bas-Rhin
+39,Alsace Grand Cru Geisberg,Grand Cru,Bas-Rhin
+40,Alsace Grand Cru Gloeckelberg,Grand Cru,Bas-Rhin
+41,Alsace Grand Cru Goldert,Grand Cru,Bas-Rhin
+42,Alsace Grand Cru Hatschbourg,Grand Cru,Bas-Rhin
+43,Alsace Grand Cru Hengst,Grand Cru,Bas-Rhin
+44,Alsace Grand Cru Kaefferkopf,Grand Cru,Bas-Rhin
+45,Alsace Grand Cru Kanzlerberg,Grand Cru,Bas-Rhin
+46,Alsace Grand Cru Kastelberg,Grand Cru,Bas-Rhin
+47,Alsace Grand Cru Kessler,Grand Cru,Bas-Rhin
+48,Alsace Grand Cru Kirchberg de Barr,Grand Cru,Bas-Rhin
+49,Alsace Grand Cru Kirchberg de Ribeauvillé,Grand Cru,Bas-Rhin
+50,Alsace Grand Cru Kitterlé,Grand Cru,Bas-Rhin
+51,Alsace Grand Cru Mambourg,Grand Cru,Bas-Rhin
+52,Alsace Grand Cru Mandelberg,Grand Cru,Bas-Rhin
+53,Alsace Grand Cru Marckrain,Grand Cru,Bas-Rhin
+54,Alsace Grand Cru Moenchberg,Grand Cru,Bas-Rhin
+55,Alsace Grand Cru Muenchberg,Grand Cru,Bas-Rhin
+56,Alsace Grand Cru Ollwiller,Grand Cru,Bas-Rhin
+57,Alsace Grand Cru Osterberg,Grand Cru,Bas-Rhin
+58,Alsace Grand Cru Pfersigberg,Grand Cru,Bas-Rhin
+59,Alsace Grand Cru Pfingstberg,Grand Cru,Bas-Rhin
+60,Alsace Grand Cru Praelatenberg,Grand Cru,Bas-Rhin
+61,Alsace Grand Cru Rangen,Grand Cru,Bas-Rhin
+62,Alsace Grand Cru Rosacker,Grand Cru,Bas-Rhin
+63,Alsace Grand Cru Saering,Grand Cru,Bas-Rhin
+64,Alsace Grand Cru Schlossberg,Grand Cru,Bas-Rhin
+65,Alsace Grand Cru Schoenenbourg,Grand Cru,Bas-Rhin
+66,Alsace Grand Cru Sommerberg,Grand Cru,Bas-Rhin
+67,Alsace Grand Cru Sonnenglanz,Grand Cru,Bas-Rhin
+68,Alsace Grand Cru Spiegel,Grand Cru,Bas-Rhin
+69,Alsace Grand Cru Sporen,Grand Cru,Bas-Rhin
+70,Alsace Grand Cru Steinert,Grand Cru,Bas-Rhin
+71,Alsace Grand Cru Steingrubler,Grand Cru,Bas-Rhin
+72,Alsace Grand Cru Steinklotz,Grand Cru,Bas-Rhin
+73,Alsace Grand Cru Vorbourg,Grand Cru,Bas-Rhin
+74,Alsace Grand Cru Wiebelsberg,Grand Cru,Bas-Rhin
+75,Alsace Grand Cru Wineck-Schlossberg,Grand Cru,Bas-Rhin
+76,Alsace Grand Cru Winzenberg,Grand Cru,Bas-Rhin
+77,Alsace Grand Cru Zinnkoepflé,Grand Cru,Bas-Rhin
+78,Alsace Grand Cru Zotzenberg,Grand Cru,Bas-Rhin
+79,Alsace Klevener de Heiligenstein,Communale,Alsace
+80,Alsace Ottrott,Communale,Alsace
+81,Alsace Rodern,Communale,Alsace
+82,Alsace Saint-Hippolyte,Communale,Alsace
+83,Alsace Scherwiller,Communale,Alsace
+84,Alsace Vallée Noble,Communale,Alsace
+85,Alsace Val Saint Grégoire,Communale,Alsace
+86,Alsace Wolxheim,Communale,Alsace
+87,Anjou,Communale,Anjou-Saumur
+88,Anjou-Coteaux de la Loire,Régionale,Anjou-Saumur
+89,Anjou Villages,Communale,Anjou-Saumur
+90,Anjou Villages Brissac,Communale,Anjou-Saumur
+91,Arbois,Communale,Jura
+92,Arbois Pupillin,Communale,Jura
+93,Ardèche,IGP,Septentrional
+94,Ardèche Coteaux de l'Ardèche,IGP,Septentrional
+95,Ariège,IGP,Sud-Ouest
+96,Ariège Coteaux de la Lèze,IGP,Sud-Ouest
+97,Ariège Coteaux du Plantaurel,IGP,Sud-Ouest
+98,Atlantique,IGP,France
+99,Aude,IGP,Languedoc
+100,Aude Coteaux de la Cabrerisse,IGP,Languedoc
+101,Aude Coteaux de Miramont,IGP,Languedoc
+102,Aude Côtes de Lastours,IGP,Languedoc
+103,Aude Côtes de Prouilhe,IGP,Languedoc
+104,Aude Hauterive,IGP,Languedoc
+105,Aude La côte rêvée,IGP,Languedoc
+106,Aude Pays de Cucugnan,IGP,Languedoc
+107,Aude Val de Cesse,IGP,Languedoc
+108,Aude Val de Dagne,IGP,Languedoc
+109,Auxey-Duresses,Communale,Côte de Beaune
+110,Auxey-Duresses Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+111,Auxey-Duresses Premier Cru Bas des Duresses,Premier Cru,Côte de Beaune
+112,Auxey-Duresses Premier Cru Climat du Val,Premier Cru,Côte de Beaune
+113,Auxey-Duresses Premier Cru Clos du Val,Premier Cru,Côte de Beaune
+114,Auxey-Duresses Premier Cru La Chapelle,Premier Cru,Côte de Beaune
+115,Auxey-Duresses Premier Cru Les Bréterins,Premier Cru,Côte de Beaune
+116,Auxey-Duresses Premier Cru Les Duresses,Premier Cru,Côte de Beaune
+117,Auxey-Duresses Premier Cru Les Ecussaux,Premier Cru,Côte de Beaune
+118,Auxey-Duresses Premier Cru Les Grands Champs,Premier Cru,Côte de Beaune
+119,Auxey-Duresses Premier Cru Reugne,Premier Cru,Côte de Beaune
+120,Aveyron,IGP,Aveyron
+121,Bandol,Communale,Provence
+122,Banyuls,Communale,Roussillon
+123,Banyuls Grand Cru,Grand Cru,Roussillon
+124,Barsac,Communale,Sauternais
+125,Bâtard-Montrachet,Grand Cru,Côte de Beaune
+126,Béarn,Communale,Piémont Pyrénéen
+127,Beaujolais,Régionale,Beaujolais
+128,Beaujolais Beaujeu,Communale,Beaujolais
+129,Beaujolais Blacé,Communale,Beaujolais
+130,Beaujolais Cercié,Communale,Beaujolais
+131,Beaujolais Chânes,Communale,Beaujolais
+132,Beaujolais Charentay,Communale,Beaujolais
+133,Beaujolais Denicé,Communale,Beaujolais
+134,Beaujolais Emeringes,Communale,Beaujolais
+135,Beaujolais Jullié,Communale,Beaujolais
+136,Beaujolais La Chapelle-de-Guinchay,Communale,Beaujolais
+137,Beaujolais Lancié,Communale,Beaujolais
+138,Beaujolais Lantignié,Communale,Beaujolais
+139,Beaujolais Le Perréon,Communale,Beaujolais
+140,Beaujolais Les Ardillats,Communale,Beaujolais
+141,Beaujolais Leynes,Communale,Beaujolais
+142,Beaujolais Marchampt,Communale,Beaujolais
+143,Beaujolais Montmelas-Saint-Sorlin,Communale,Beaujolais
+144,Beaujolais Odenas,Communale,Beaujolais
+145,Beaujolais Pruzilly,Communale,Beaujolais
+146,Beaujolais Quincié-en-Beaujolais,Communale,Beaujolais
+147,Beaujolais Rivolet,Communale,Beaujolais
+148,Beaujolais Romanèche-Thorins,Communale,Beaujolais
+149,Beaujolais Saint-Didier-sur-Beaujeu,Communale,Beaujolais
+150,Beaujolais Saint-Etienne-des-Oullières,Communale,Beaujolais
+151,Beaujolais Saint-Etienne-la-Varenne,Communale,Beaujolais
+152,Beaujolais Saint-Julien,Communale,Beaujolais
+153,Beaujolais Saint-Lager,Communale,Beaujolais
+154,Beaujolais Saint-Symphorien-d'Ancelles,Communale,Beaujolais
+155,Beaujolais Salles-Arbuissonnas-en-Beaujolais,Communale,Beaujolais
+156,Beaujolais Vaux-en-Beaujolais,Communale,Beaujolais
+157,Beaujolais Vauxrenard,Communale,Beaujolais
+158,Beaujolais Villages,Régionale,Beaujolais
+159,Beaumes de Venise,Communale,Méridional
+160,Beaune,Communale,Côte de Beaune
+161,Beaune Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+162,Beaune Premier Cru A l'Ecu,Premier Cru,Côte de Beaune
+163,Beaune Premier Cru Aux Coucherias,Premier Cru,Côte de Beaune
+164,Beaune Premier Cru Aux Cras,Premier Cru,Côte de Beaune
+165,Beaune Premier Cru Belissand,Premier Cru,Côte de Beaune
+166,Beaune Premier Cru Blanches Fleurs,Premier Cru,Côte de Beaune
+167,Beaune Premier Cru Champs Pimont,Premier Cru,Côte de Beaune
+168,Beaune Premier Cru Clos de la Feguine,Premier Cru,Côte de Beaune
+169,Beaune Premier Cru Clos de la Mousse,Premier Cru,Côte de Beaune
+170,Beaune Premier Cru Clos de l'Ecu,Premier Cru,Côte de Beaune
+171,Beaune Premier Cru Clos des Avaux,Premier Cru,Côte de Beaune
+172,Beaune Premier Cru Clos des Ursules,Premier Cru,Côte de Beaune
+173,Beaune Premier Cru Clos du roi,Premier Cru,Côte de Beaune
+174,Beaune Premier Cru Clos Saint-Landry,Premier Cru,Côte de Beaune
+175,Beaune Premier Cru En Genêt,Premier Cru,Côte de Beaune
+176,Beaune Premier Cru En l'Orme,Premier Cru,Côte de Beaune
+177,Beaune Premier Cru La Mignotte,Premier Cru,Côte de Beaune
+178,Beaune Premier Cru Le Bas des Teurons,Premier Cru,Côte de Beaune
+179,Beaune Premier Cru Le Clos des Mouches,Premier Cru,Côte de Beaune
+180,Beaune Premier Cru Les Aigrots,Premier Cru,Côte de Beaune
+181,Beaune Premier Cru Les Avaux,Premier Cru,Côte de Beaune
+182,Beaune Premier Cru Les Boucherottes,Premier Cru,Côte de Beaune
+183,Beaune Premier Cru Les Bressandes,Premier Cru,Côte de Beaune
+184,Beaune Premier Cru Les Cents Vignes,Premier Cru,Côte de Beaune
+185,Beaune Premier Cru Les Chouacheux,Premier Cru,Côte de Beaune
+186,Beaune Premier Cru Les Epenotes,Premier Cru,Côte de Beaune
+187,Beaune Premier Cru Les Fèves,Premier Cru,Côte de Beaune
+188,Beaune Premier Cru Les Grèves,Premier Cru,Côte de Beaune
+189,Beaune Premier Cru Les Marconnets,Premier Cru,Côte de Beaune
+190,Beaune Premier Cru Les Montrevenots,Premier Cru,Côte de Beaune
+191,Beaune Premier Cru Les Perrières,Premier Cru,Côte de Beaune
+192,Beaune Premier Cru Les Reversés,Premier Cru,Côte de Beaune
+193,Beaune Premier Cru Les Sceaux,Premier Cru,Côte de Beaune
+194,Beaune Premier Cru Les Seurey,Premier Cru,Côte de Beaune
+195,Beaune Premier Cru Les Sizies,Premier Cru,Côte de Beaune
+196,Beaune Premier Cru Les Teurons,Premier Cru,Côte de Beaune
+197,Beaune Premier Cru Les Toussaints,Premier Cru,Côte de Beaune
+198,Beaune Premier Cru Les Tuvilains,Premier Cru,Côte de Beaune
+199,Beaune Premier Cru Les Vignes Franches,Premier Cru,Côte de Beaune
+200,Beaune Premier Cru Montée Rouge,Premier Cru,Côte de Beaune
+201,Beaune Premier Cru Pertuisots,Premier Cru,Côte de Beaune
+202,Beaune Premier Cru Sur les Grèves,Premier Cru,Côte de Beaune
+203,Beaune premier cru Sur les Grèves - Clos Saint-Anne,Premier Cru,Côte de Beaune
+204,Bellet,Communale,Provence
+205,Bergerac,Communale,Bergerac
+206,Bienvenues-Bâtard-Montrachet,Grand Cru,Côte de Beaune
+207,Blagny,Communale,Côte de Beaune
+208,Blagny Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+209,Blagny Premier Cru Hameau de Blagny,Premier Cru,Côte de Beaune
+210,Blagny Premier Cru La Garenne ou sur la Garenne,Premier Cru,Côte de Beaune
+211,Blagny Premier Cru La Jeunellotte,Premier Cru,Côte de Beaune
+212,Blagny Premier Cru La Pièce sous le Bois,Premier Cru,Côte de Beaune
+213,Blagny Premier Cru Sous Blagny,Premier Cru,Côte de Beaune
+214,Blagny Premier Cru Sous le Dos d'Ane,Premier Cru,Côte de Beaune
+215,Blagny Premier Cru Sous le Puits,Premier Cru,Côte de Beaune
+216,Blaye,Communale,Blaye - Bourg
+217,Bonnes-Mares,Grand Cru,Côte de Nuits
+218,Bonnezeaux,Communale,Anjou-Saumur
+219,Bordeaux,Régionale,Bordeaux
+220,Bordeaux Haut-Benauge,Régionale,Bordeaux
+221,Bordeaux supérieur,Régionale,Bordeaux
+222,Bouches-du-Rhône,IGP,Provence
+223,Bouches-du-Rhône Terre de Camargue,IGP,Provence
+224,Bourgogne,Régionale,Bourgogne
+225,Bourgogne aligoté,Régionale,Bourgogne
+226,Bourgogne Chitry,Régionale,Bourgogne
+227,Bourgogne Côte Chalonnaise,Régionale,Bourgogne
+228,Bourgogne Côte d'Or,Régionale,Bourgogne
+229,Bourgogne Côte Saint-Jacques,Régionale,Bourgogne
+230,Bourgogne Côtes d'Auxerre,Régionale,Bourgogne
+231,Bourgogne Côtes du Couchois,Régionale,Bourgogne
+232,Bourgogne Coulanges-la-Vineuse,Régionale,Bourgogne
+233,Bourgogne Epineuil,Régionale,Bourgogne
+234,Bourgogne Hautes Côtes de Beaune,Régionale,Bourgogne
+235,Bourgogne Hautes Côtes de Nuits,Régionale,Bourgogne
+236,Bourgogne La Chapelle Notre-Dame,Régionale,Bourgogne
+237,Bourgogne Le Chapitre,Régionale,Bourgogne
+238,Bourgogne Montrecul ou Montre-Cul ou En Montre-Cul,Régionale,Bourgogne
+239,Bourgogne mousseux,Régionale,Bourgogne
+240,Bourgogne Passe-tout-grains,Régionale,Bourgogne
+241,Bourgogne Tonnerre,Régionale,Bourgogne
+242,Bourgogne Vézelay,Communale,Bourgogne
+243,Bourgueil,Communale,Touraine
+244,Bouzeron,Communale,Côte chalonnaise
+245,Brouilly,Premier Cru,Crus du Beaujolais
+246,Brulhois,Communale,Agen
+247,Bugey,Régionale,Bugey
+248,Bugey Cerdon,Communale,Bugey
+249,Bugey Manicle,Communale,Bugey
+250,Bugey Montagnieu,Communale,Bugey
+251,Buzet,Communale,Agen
+252,Cabardès,Communale,Languedoc
+253,Cabernet d'Anjou,Régionale,Anjou-Saumur
+254,Cadillac,Régionale,Entre-Deux-Mers
+255,Cahors,Communale,Cahors
+256,Cairanne,Communale,Méridional
+257,Calvados,IGP,France
+258,Calvados Grisy,IGP,France
+259,Canon Fronsac,Communale,Libournais
+260,Cassis,Communale,Provence
+261,Cérons,Communale,Graves
+262,Cévennes,IGP,Languedoc
+263,Chablis,Communale,Chablisien
+264,Chablis Grand Cru,Groupe de Grands Crus,Chablisien
+265,Chablis Grand Cru Blanchot,Grand Cru,Chablisien
+266,Chablis Grand Cru Bougros,Grand Cru,Chablisien
+267,Chablis Grand Cru Grenouilles,Grand Cru,Chablisien
+268,Chablis Grand Cru Les Clos,Grand Cru,Chablisien
+269,Chablis Grand Cru Preuses,Grand Cru,Chablisien
+270,Chablis Grand Cru Valmur,Grand Cru,Chablisien
+271,Chablis Grand Cru Vaudésir,Grand Cru,Chablisien
+272,Chablis Premier Cru,Groupe de Premiers Crus,Chablisien
+273,Chablis Premier Cru Beauroy,Premier Cru,Chablisien
+274,Chablis Premier Cru Berdiot,Premier Cru,Chablisien
+275,Chablis Premier Cru Beugnons,Premier Cru,Chablisien
+276,Chablis Premier Cru Butteaux,Premier Cru,Chablisien
+277,Chablis Premier Cru Chapelot,Premier Cru,Chablisien
+278,Chablis Premier Cru Chatains,Premier Cru,Chablisien
+279,Chablis Premier Cru Chaume de Talvat,Premier Cru,Chablisien
+280,Chablis Premier Cru Côte de Bréchain,Premier Cru,Chablisien
+281,Chablis Premier Cru Côte de Cuisy,Premier Cru,Chablisien
+282,Chablis Premier Cru Côte de Fontenay,Premier Cru,Chablisien
+283,Chablis Premier Cru Côte de Jouan,Premier Cru,Chablisien
+284,Chablis Premier Cru Côte de Léchet,Premier Cru,Chablisien
+285,Chablis Premier Cru Côte de Savant,Premier Cru,Chablisien
+286,Chablis Premier Cru Côte des Prés-Girots,Premier Cru,Chablisien
+287,Chablis Premier Cru Côte de Vaubarousse,Premier Cru,Chablisien
+288,Chablis Premier Cru Forêts,Premier Cru,Chablisien
+289,Chablis Premier Cru Fourchaume,Premier Cru,Chablisien
+290,Chablis Premier Cru Les Beauregards,Premier Cru,Chablisien
+291,Chablis Premier Cru Les Epinottes,Premier Cru,Chablisien
+292,Chablis Premier Cru Les Fourneaux,Premier Cru,Chablisien
+293,Chablis Premier Cru Les Lys,Premier Cru,Chablisien
+294,Chablis Premier Cru L'Homme Mort,Premier Cru,Chablisien
+295,Chablis Premier Cru Mélinots,Premier Cru,Chablisien
+296,Chablis Premier Cru Mont de Milieu,Premier Cru,Chablisien
+297,Chablis Premier Cru Montée de Tonnerre,Premier Cru,Chablisien
+298,Chablis Premier Cru Montmains,Premier Cru,Chablisien
+299,Chablis Premier Cru Morein,Premier Cru,Chablisien
+300,Chablis Premier Cru Pied d'Aloup,Premier Cru,Chablisien
+301,Chablis Premier Cru Roncières,Premier Cru,Chablisien
+302,Chablis Premier Cru Sécher,Premier Cru,Chablisien
+303,Chablis Premier Cru Troesmes,Premier Cru,Chablisien
+304,Chablis Premier Cru Vaillons,Premier Cru,Chablisien
+305,Chablis Premier Cru Vaucoupin,Premier Cru,Chablisien
+306,Chablis Premier Cru Vau de Vey,Premier Cru,Chablisien
+307,Chablis Premier Cru Vaugiraut,Premier Cru,Chablisien
+308,Chablis Premier Cru Vau Ligneau,Premier Cru,Chablisien
+309,Chablis Premier Cru Vaulorent,Premier Cru,Chablisien
+310,Chablis Premier Cru Vaupulent,Premier Cru,Chablisien
+311,Chablis Premier Cru Vaux Ragons,Premier Cru,Chablisien
+312,Chablis Premier Cru Vosgros,Premier Cru,Chablisien
+313,Chambertin Grand Cru,Grand Cru,Côte de Nuits
+314,Chambertin-Clos de Bèze Grand Cru,Grand Cru,Côte de Nuits
+317,Chambolle-Musigny,Communale,Côte de Nuits
+318,Chambolle-Musigny Premier Cru Aux Beaux Bruns,Premier Cru,Côte de Nuits
+319,Chambolle-Musigny Premier Cru Aux Combottes,Premier Cru,Côte de Nuits
+320,Chambolle-Musigny Premier Cru Aux Echanges,Premier Cru,Côte de Nuits
+321,Chambolle-Musigny Premier Cru Derrière la Grange,Premier Cru,Côte de Nuits
+322,Chambolle-Musigny Premier Cru La Combe d'Orveau,Premier Cru,Côte de Nuits
+323,Chambolle-Musigny Premier Cru Les Amoureuses,Premier Cru,Côte de Nuits
+324,Chambolle-Musigny Premier Cru Les Baudes,Premier Cru,Côte de Nuits
+325,Chambolle-Musigny Premier Cru Les Borniques,Premier Cru,Côte de Nuits
+326,Chambolle-Musigny Premier Cru Les Carrières,Premier Cru,Côte de Nuits
+327,Chambolle-Musigny Premier Cru Les Chabiots,Premier Cru,Côte de Nuits
+328,Chambolle-Musigny Premier Cru Les Charmes,Premier Cru,Côte de Nuits
+329,Chambolle-Musigny Premier Cru Les Chatelots,Premier Cru,Côte de Nuits
+330,Chambolle-Musigny Premier Cru Les Combottes,Premier Cru,Côte de Nuits
+331,Chambolle-Musigny Premier Cru Les Cras,Premier Cru,Côte de Nuits
+332,Chambolle-Musigny Premier Cru Les Feusselottes ou Les Feusselotes,Premier Cru,Côte de Nuits
+334,Chambolle-Musigny Premier Cru Les Fuées,Premier Cru,Côte de Nuits
+335,Chambolle-Musigny Premier Cru Les Groseilles,Premier Cru,Côte de Nuits
+336,Chambolle-Musigny Premier Cru Les Gruenchers,Premier Cru,Côte de Nuits
+337,Chambolle-Musigny Premier Cru Les Hauts Doix,Premier Cru,Côte de Nuits
+338,Chambolle-Musigny Premier Cru Les Lavrottes,Premier Cru,Côte de Nuits
+339,Chambolle-Musigny Premier Cru Les noirots,Premier Cru,Côte de Nuits
+340,Chambolle-Musigny Premier Cru Les Plantes,Premier Cru,Côte de Nuits
+341,Chambolle-Musigny Premier Cru Les Sentiers,Premier Cru,Côte de Nuits
+342,Chambolle-Musigny Premier Cru Les Véroilles,Premier Cru,Côte de Nuits
+343,Chambolle-Musigny Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+344,Chambolle-Musigny Aux Beaux Bruns,Premier Cru,Côte de Nuits
+345,Chambolle-Musigny Aux Combottes,Premier Cru,Côte de Nuits
+367,Chambolle-Musigny Les Véroilles,Premier Cru,Côte de Nuits
+368,Champagne,Régionale,Champagne
+369,Champagne Grand Cru,Groupe de Grands Crus,Champagne
+370,Champagne Premier Cru,Groupe de Premiers Crus,Champagne
+371,Chapelle-Chambertin,Grand Cru,Côte de Nuits
+372,Charentais,IGP,France
+373,Charentais Charente,IGP,France
+374,Charentais Charente-Maritime,IGP,France
+375,Charentais Ile de Ré,IGP,France
+376,Charentais Ile d'Oléron,IGP,France
+377,Charentais Saint-Sornin,IGP,France
+378,Charlemagne,Grand Cru,Côte de Beaune
+379,Charmes-Chambertin ou Mazoyères-Chambertin,Grand Cru,Côte de Nuits
+380,Chassagne-Montrachet,Communale,Côte de Beaune
+382,Chassagne-Montrachet Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+383,Chassagne-Montrachet Premier Cru Abbaye de Morgeot,Premier Cru,Côte de Beaune
+384,Chassagne-Montrachet Premier Cru Blanchot dessus,Premier Cru,Côte de Beaune
+385,Chassagne-Montrachet Premier Cru Bois de Chassagne,Premier Cru,Côte de Beaune
+386,Chassagne-Montrachet Premier Cru Cailleret,Premier Cru,Côte de Beaune
+387,Chassagne-Montrachet Premier Cru Champs Jendreau,Premier Cru,Côte de Beaune
+388,Chassagne-Montrachet Premier Cru Chassagne,Premier Cru,Côte de Beaune
+389,Chassagne-Montrachet Premier Cru Chassagne du Clos Saint-Jean,Premier Cru,Côte de Beaune
+390,Chassagne-Montrachet Premier Cru Clos Chareau,Premier Cru,Côte de Beaune
+391,Chassagne-Montrachet Premier Cru Clos Pitois,Premier Cru,Côte de Beaune
+392,Chassagne-Montrachet Premier Cru Clos Saint-Jean,Premier Cru,Côte de Beaune
+393,Chassagne-Montrachet Premier Cru Dent de Chien,Premier Cru,Côte de Beaune
+394,Chassagne-Montrachet Premier Cru En Cailleret,Premier Cru,Côte de Beaune
+395,Chassagne-Montrachet Premier Cru En Remilly,Premier Cru,Côte de Beaune
+396,Chassagne-Montrachet Premier Cru En Virondot,Premier Cru,Côte de Beaune
+397,Chassagne-Montrachet Premier Cru Ez Crets,Premier Cru,Côte de Beaune
+398,Chassagne-Montrachet Premier Cru Ez Crottes,Premier Cru,Côte de Beaune
+399,Chassagne-Montrachet Premier Cru Francemont,Premier Cru,Côte de Beaune
+400,Chassagne-Montrachet Premier Cru Guerchère,Premier Cru,Côte de Beaune
+401,Chassagne-Montrachet Premier Cru La Boudriotte,Premier Cru,Côte de Beaune
+402,Chassagne-Montrachet Premier Cru La Cardeuse,Premier Cru,Côte de Beaune
+403,Chassagne-Montrachet Premier Cru La Chapelle,Premier Cru,Côte de Beaune
+404,Chassagne-Montrachet Premier Cru La Grande Borne,Premier Cru,Côte de Beaune
+405,Chassagne-Montrachet Premier Cru La Grande Montagne,Premier Cru,Côte de Beaune
+406,Chassagne-Montrachet Premier Cru La Maltroie,Premier Cru,Côte de Beaune
+407,Chassagne-Montrachet Premier Cru La Romanée,Premier Cru,Côte de Beaune
+408,Chassagne-Montrachet Premier Cru La Roquemaure,Premier Cru,Côte de Beaune
+409,Chassagne-Montrachet Premier Cru Les Baudines,Premier Cru,Côte de Beaune
+410,Chassagne-Montrachet Premier Cru Les Boirettes,Premier Cru,Côte de Beaune
+411,Chassagne-Montrachet Premier Cru Les Bondues,Premier Cru,Côte de Beaune
+412,Chassagne-Montrachet Premier Cru Les Brussonnes,Premier Cru,Côte de Beaune
+413,Chassagne-Montrachet Premier Cru Les Champs gain,Premier Cru,Côte de Beaune
+414,Chassagne-Montrachet Premier Cru Les Chaumées,Premier Cru,Côte de Beaune
+415,Chassagne-Montrachet Premier Cru Les Chaumes,Premier Cru,Côte de Beaune
+416,Chassagne-Montrachet Premier Cru Les Chenevottes,Premier Cru,Côte de Beaune
+417,Chassagne-Montrachet Premier Cru Les Combards,Premier Cru,Côte de Beaune
+418,Chassagne-Montrachet Premier Cru Les Commes,Premier Cru,Côte de Beaune
+419,Chassagne-Montrachet Premier Cru Les Embazées,Premier Cru,Côte de Beaune
+420,Chassagne-Montrachet Premier Cru Les Fairendes,Premier Cru,Côte de Beaune
+421,Chassagne-Montrachet Premier Cru Les Grandes Ruchottes,Premier Cru,Côte de Beaune
+422,Chassagne-Montrachet Premier Cru Les Grands Clos,Premier Cru,Côte de Beaune
+423,Chassagne-Montrachet Premier Cru Les Macherelles,Premier Cru,Côte de Beaune
+424,Chassagne-Montrachet Premier Cru Les Murées,Premier Cru,Côte de Beaune
+425,Chassagne-Montrachet Premier Cru Les Pasquelles,Premier Cru,Côte de Beaune
+426,Chassagne-Montrachet Premier Cru Les Petites Fairendes,Premier Cru,Côte de Beaune
+427,Chassagne-Montrachet Premier Cru Les Petits Clos,Premier Cru,Côte de Beaune
+428,Chassagne-Montrachet Premier Cru Les Places,Premier Cru,Côte de Beaune
+429,Chassagne-Montrachet Premier Cru Les Rebichets,Premier Cru,Côte de Beaune
+430,Chassagne-Montrachet Premier Cru Les Vergers,Premier Cru,Côte de Beaune
+431,Chassagne-Montrachet Premier Cru Morgeot,Premier Cru,Côte de Beaune
+432,Chassagne-Montrachet Premier Cru Petingeret,Premier Cru,Côte de Beaune
+433,Chassagne-Montrachet Premier Cru Tête du Clos,Premier Cru,Côte de Beaune
+434,Chassagne-Montrachet Premier Cru Tonton Marcel,Premier Cru,Côte de Beaune
+435,Chassagne-Montrachet Premier Cru Vide Bourse,Premier Cru,Côte de Beaune
+436,Chassagne-Montrachet Premier Cru Vigne Blanche,Premier Cru,Côte de Beaune
+437,Chassagne-Montrachet Premier Cru Vigne Derrière,Premier Cru,Côte de Beaune
+438,Château-Chalon,Premier Cru,Jura
+439,Château-Grillet,Communale,Septentrional
+440,Châteaumeillant,Communale,Centre
+441,Châteauneuf-du-Pape,Communale,Méridional
+442,Châtillon-en-Diois,Communale,Diois
+443,Chénas,Premier Cru,Crus du Beaujolais
+444,Chevalier-Montrachet,Grand Cru,Côte de Beaune
+445,Cheverny,Communale,Touraine
+446,Chinon,Communale,Touraine
+447,Chiroubles,Premier Cru,Crus du Beaujolais
+448,Chorey-lès-Beaune,Communale,Côte de Beaune
+449,Cité de Carcassonne,IGP,Languedoc
+450,Clairette de Bellegarde,Communale,Méridional
+451,Clairette de Die,Communale,Diois
+452,Clairette du Languedoc,Communale,Languedoc
+453,Clairette du Languedoc Adissan,Communale,Languedoc
+454,Clairette du Languedoc Aspiran,Communale,Languedoc
+455,Clairette du Languedoc Cabrières,Communale,Languedoc
+456,Clairette du Languedoc Ceyras,Communale,Languedoc
+457,Clairette du Languedoc Fontès,Communale,Languedoc
+458,Clairette du Languedoc Le Bosc,Communale,Languedoc
+459,Clairette du Languedoc Lieuran-Cabrières,Communale,Languedoc
+460,Clairette du Languedoc Nizas,Communale,Languedoc
+461,Clairette du Languedoc Paulhan,Communale,Languedoc
+462,Clairette du Languedoc Péret,Communale,Languedoc
+463,Clairette du Languedoc Saint-André-de-Sangonis,Communale,Languedoc
+464,Clos de la Roche,Grand Cru,Côte de Nuits
+465,Clos des Lambrays,Grand Cru,Côte de Nuits
+466,Clos de Tart,Grand Cru,Côte de Nuits
+468,Clos de Vougeot ou Clos Vougeot,Grand Cru,Côte de Nuits
+469,Clos Saint-Denis,Grand Cru,Côte de Nuits
+470,Collines Rhodaniennes,IGP,Rhône
+471,Collioure,Communale,Roussillon
+472,Comtés Rhodaniens,IGP,France
+473,Comté Tolosan,IGP,Sud-Ouest
+474,Comté Tolosan Bigorre,IGP,Sud-Ouest
+475,Comté Tolosan Cantal,IGP,Sud-Ouest
+476,Comté Tolosan Coteaux et Terrasses de Montauban,IGP,Sud-Ouest
+477,Comté Tolosan Haute-Garonne,IGP,Sud-Ouest
+478,Comté Tolosan Pyrénées Atlantiques,IGP,Sud-Ouest
+479,Comté Tolosan Tarn et Garonne,IGP,Sud-Ouest
+480,Condrieu,Communale,Septentrional
+481,Corbières,Communale,Languedoc
+482,Corbières-Boutenac,Premier Cru,Languedoc
+483,Cornas,Communale,Septentrional
+484,Corrèze,Communale,Limousin
+485,Corrèze Coteaux de la Vézère,Premier Cru,Limousin
+486,Corse,Régionale,Corse
+487,Corse Calvi,Communale,Corse
+488,Corse Coteaux du Cap Corse,Communale,Corse
+489,Corse Figari,Communale,Corse
+490,Corse Porto-Vecchio,Communale,Corse
+491,Corse Sartène,Communale,Corse
+492,Corton,Groupe de Grands Crus,Côte de Beaune
+493,Corton Basses Mourottes,Grand Cru,Côte de Beaune
+494,Corton-Charlemagne,Grand Cru,Côte de Beaune
+495,Corton Clos des Meix,Grand Cru,Côte de Beaune
+496,Corton Hautes Mourottes,Grand Cru,Côte de Beaune
+497,Corton La Toppe au Vert,Grand Cru,Côte de Beaune
+498,Corton La Vigne au Saint,Grand Cru,Côte de Beaune
+499,Corton Le Clos du Roi,Grand Cru,Côte de Beaune
+500,Corton Le Corton,Grand Cru,Côte de Beaune
+501,Corton Le Meix Lallemand,Grand Cru,Côte de Beaune
+502,Corton Le Rognet et Corton,Grand Cru,Côte de Beaune
+503,Corton Les Bressandes,Grand Cru,Côte de Beaune
+504,Corton Les Carrières,Grand Cru,Côte de Beaune
+505,Corton Les Chaumes,Grand Cru,Côte de Beaune
+506,Corton Les Combes,Grand Cru,Côte de Beaune
+507,Corton Les Fiètres,Grand Cru,Côte de Beaune
+508,Corton Les Grandes Lolières,Grand Cru,Côte de Beaune
+509,Corton Les Grèves,Grand Cru,Côte de Beaune
+510,Corton Les Languettes,Grand Cru,Côte de Beaune
+511,Corton Les Maréchaudes,Grand Cru,Côte de Beaune
+512,Corton Les Moutottes,Grand Cru,Côte de Beaune
+513,Corton Les Paulands,Grand Cru,Côte de Beaune
+514,Corton Les Perrières,Grand Cru,Côte de Beaune
+515,Corton Les Pougets,Grand Cru,Côte de Beaune
+516,Corton Les Renardes,Grand Cru,Côte de Beaune
+517,Corton Les Vergennes,Grand Cru,Côte de Beaune
+518,Costières de Nîmes,Communale,Méridional
+519,Coteaux Bourguignons ou Bourgogne grand ordinaire ou Bourgogne ordinaire,Régionale,Bourgogne
+520,Coteaux Champenois,Régionale,Champagne
+521,Coteaux d'Aix-en-Provence,Régionale,Provence
+522,Coteaux d'Ancenis,Régionale,Nantes
+523,Coteaux de Béziers,IGP,Languedoc
+524,Coteaux de Coiffy,IGP,France
+525,Coteaux de Die,Communale,Diois
+526,Coteaux de Glanes,IGP,Cahors
+527,Coteaux de l'Ain,IGP,Bugey
+528,Coteaux de l'Ain Pays de Gex,IGP,Bugey
+529,Coteaux de l'Ain Revermont,IGP,Bugey
+530,Coteaux de l'Ain Val de Saône,IGP,Bugey
+531,Coteaux de l'Ain Valromey,IGP,Bugey
+532,Coteaux de l'Aubance,Régionale,Anjou-Saumur
+533,Coteaux de l'Auxois,IGP,Bourgogne
+534,Coteaux de Narbonne,IGP,Languedoc
+535,Coteaux d'Ensérune,IGP,Languedoc
+536,Coteaux de Peyriac,IGP,Languedoc
+537,Coteaux de Peyriac Hauts de Badens,IGP,Languedoc
+538,Coteaux de Saumur,Régionale,Anjou-Saumur
+539,Coteaux des Baronnies,IGP,Rhône
+540,Coteaux de Tannay,IGP,Centre
+541,Coteaux du Cher et de l'Arnon,IGP,Loire
+542,Coteaux du Giennois,Régionale,Centre
+543,Coteaux du Layon,Régionale,Anjou-Saumur
+544,Coteaux du Layon Beaulieu-sur-Layon ou Beaulieu,Communale,Anjou-Saumur
+545,Coteaux du Layon Faye-d'Anjou ou Faye,Communale,Anjou-Saumur
+546,Coteaux du Layon premier cru Chaume,Communale,Anjou-Saumur
+547,Coteaux du Layon Rablay-sur-Layon ou Rablay,Communale,Anjou-Saumur
+548,Coteaux du Layon Rochefort-sur-Loire ou Rochefort,Communale,Anjou-Saumur
+549,Coteaux du Layon Saint-Aubin-de-Luigné ou Saint-Aubin,Communale,Anjou-Saumur
+550,Coteaux du Layon Saint-Lambert-du-Lattay ou Saint-Lambert,Communale,Anjou-Saumur
+551,Coteaux du Loir,Régionale,Touraine
+552,Coteaux du Lyonnais,Régionale,Coteaux du Lyonnais
+553,Coteaux du Pont du Gard,IGP,Gard
+554,Coteaux du Quercy,Communale,Cahors
+555,Coteaux du Vendômois,Régionale,Loire
+556,Coteaux varois en Provence,Régionale,Provence
+557,Côte de Beaune,Communale,Côte de Beaune
+558,Côte de Beaune-Villages,Communale,Côte de Beaune
+559,Côte de Brouilly,Premier Cru,Crus du Beaujolais
+560,Côte de Nuits-Villages ou Vins fins de la Côte de Nuits,Communale,Côte de Nuits
+561,Côte roannaise,Régionale,Auvergne
+562,Côte Rôtie,Communale,Septentrional
+563,Côtes Catalanes,IGP,Roussillon
+564,Côtes Catalanes Pyrénées-Orientales,IGP,Roussillon
+565,Côtes d'Auvergne,Régionale,Centre
+566,Côtes d'Auvergne Boudes,Communale,Centre
+567,Côtes d'Auvergne Chanturgue,Communale,Centre
+568,Côtes d'Auvergne Chateaugay,Communale,Centre
+569,Côtes d'Auvergne Corent,Communale,Centre
+570,Côtes d'Auvergne Madargues,Communale,Centre
+571,Côtes de Bergerac,Communale,Bergerac
+572,Côtes de Blaye,Régionale,Blaye - Bourg
+573,Côtes de Bordeaux,Régionale,Bordeaux
+574,Côtes de Bordeaux Blaye,Régionale,Bordeaux
+575,Côtes de Bordeaux Cadillac,Régionale,Bordeaux
+576,Côtes de Bordeaux Castillon,Régionale,Bordeaux
+577,Côtes de Bordeaux Francs,Régionale,Bordeaux
+578,Côtes de Bordeaux Sainte-Foy,Régionale,Bordeaux
+579,Côtes de Bordeaux-Saint-Macaire,Régionale,Entre-Deux-Mers
+580,"Côtes de Bourg, Bourg et Bourgeais",Régionale,Blaye - Bourg
+581,Côtes de Duras,Communale,Marmande
+582,Côtes de Gascogne,IGP,Chalosse
+583,Côtes de Gascogne Condomois,IGP,Chalosse
+584,Côtes de la Charité,IGP,Centre
+585,Côtes de Meuse,IGP,Meuse
+586,Côtes de Millau,Communale,Aveyron
+587,Côtes de Montravel,Communale,Bergerac
+588,Côtes de Provence,Régionale,Provence
+589,Côtes de Provence Fréjus,Communale,Provence
+590,Côtes de Provence La Londe,Communale,Provence
+591,Côtes de Provence Pierrefeu,Communale,Provence
+592,Côtes de Provence Sainte-Victoire,Communale,Provence
+593,Côtes de Thau,IGP,Languedoc
+594,Côtes de Thau Cap d'Agde,IGP,Languedoc
+595,Côtes de Thongue,IGP,Languedoc
+596,Côtes de Toul,Régionale,Toul
+597,Côtes du Forez,Régionale,Auvergne
+598,Côtes du Jura,Régionale,Jura
+599,Côtes du Lot,IGP,Cahors
+600,Côtes du Lot Rocamadour,IGP,Cahors
+601,Côtes du Marmandais,Communale,Marmande
+602,Côtes du Rhône,Régionale,Méridional
+603,Côtes du Rhône Villages,Régionale,Méridional
+604,Côtes du Rhône Villages Chusclan,Communale,Méridional
+605,Côtes du Rhône Villages Gadagne,Communale,Méridional
+606,Côtes du Rhône Villages Laudun,Communale,Méridional
+607,Côtes du Rhône Villages Massif d'Uchaux,Communale,Méridional
+608,Côtes du Rhône Villages Plan de Dieu,Communale,Méridional
+609,Côtes du Rhône Villages Puyméras,Communale,Méridional
+610,Côtes du Rhône Villages Roaix,Communale,Méridional
+611,Côtes du Rhône Villages Rochegude,Communale,Méridional
+612,Côtes du Rhône Villages Rousset-les-Vignes,Communale,Méridional
+613,Côtes du Rhône Villages Sablet,Communale,Méridional
+614,Côtes du Rhône Villages Saint-Gervais,Communale,Méridional
+615,Côtes du Rhône Villages Saint-Maurice,Communale,Méridional
+616,Côtes du Rhône Villages Saint-Pantaléon-les-Vignes,Communale,Méridional
+617,Côtes du Rhône Villages Séguret,Communale,Méridional
+618,Côtes du Rhône Villages Signargues,Communale,Méridional
+619,Côtes du Rhône Villages Valréas,Communale,Méridional
+620,Côtes du Rhône Villages Visan,Communale,Méridional
+621,Côtes du Roussillon,Régionale,Roussillon
+622,Côtes du Roussillon Les Aspres,Régionale,Roussillon
+623,Côtes du Roussillon Villages,Régionale,Roussillon
+624,Côtes du Roussillon Villages Caramany,Régionale,Roussillon
+625,Côtes du Roussillon Villages Latour-de-France,Régionale,Roussillon
+626,Côtes du Roussillon Villages Lesquerde,Régionale,Roussillon
+627,Côtes du Roussillon Villages Tautavel,Régionale,Roussillon
+628,Côtes du Tarn,IGP,Toulousain
+629,Côtes du Tarn Cabanes,IGP,Toulousain
+630,Côtes du Tarn Cunac,IGP,Toulousain
+631,Côtes du Vivarais,Communale,Méridional
+632,Côte Vermeille,IGP,Roussillon
+633,Coulée de Serrant,Régionale,Anjou-Saumur
+634,Cour-Cheverny,Communale,Touraine
+635,Crémant d’Alsace,Régionale,Alsace
+636,Crémant de Bordeaux,Régionale,Bordeaux
+637,Crémant de Bourgogne,Régionale,Bourgogne
+638,Crémant de Die,Régionale,Diois
+639,Crémant de Limoux,Régionale,Languedoc
+640,Crémant de Loire,Régionale,Loire
+641,Crémant de Savoie,Régionale,Savoie
+642,Crémant du Jura,Régionale,Jura
+643,Criots-Bâtard-Montrachet,Grand Cru,Côte de Beaune
+644,Crozes-Hermitage ou Crozes-Ermitage,Communale,Septentrional
+645,Drôme,IGP,Rhône
+646,Drôme Comté de Grignan,IGP,Rhône
+647,Drôme Coteaux de Montélimar,IGP,Rhône
+648,Duché d'Uzès,Communale,Gard
+649,Echezeaux,Grand Cru,Côte de Nuits
+650,Entraygues - Le Fel,Communale,Sud-Ouest
+651,Entre-deux-Mers,Régionale,Entre-Deux-Mers
+652,Entre-deux-Mers Haut-Benauge,Régionale,Entre-Deux-Mers
+653,Estaing,Communale,Aveyron
+654,Faugères,Communale,Languedoc
+655,Fiefs Vendéens Brem,Communale,Nantes
+656,Fiefs Vendéens Chantonnay,Communale,Nantes
+657,Fiefs Vendéens Mareuil,Communale,Nantes
+658,Fiefs Vendéens Pissotte,Communale,Nantes
+659,Fiefs Vendéens Vix,Communale,Nantes
+660,Fitou,Communale,Languedoc
+661,Fixin,Communale,Côte de Nuits
+662,Fixin Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+663,Fixin Premier Cru Arvelets,Premier Cru,Côte de Nuits
+664,Fixin Premier Cru Clos de la Perrière,Premier Cru,Côte de Nuits
+665,Fixin Premier Cru Clos du Chapitre,Premier Cru,Côte de Nuits
+666,Fixin Premier Cru Clos Napoléon,Premier Cru,Côte de Nuits
+667,Fixin Premier Cru Hervelets,Premier Cru,Côte de Nuits
+668,Fixin Premier Cru Les Meix Bas,Premier Cru,Côte de Nuits
+669,Fleurie,Premier Cru,Crus du Beaujolais
+670,Franche-Comté,IGP,Jura
+671,Franche-Comté Buffard,IGP,Jura
+672,Franche-Comté Coteaux de Champlitte,IGP,Jura
+673,Franche-Comté Doubs,IGP,Jura
+674,Franche-Comté Gy,IGP,Jura
+675,Franche-Comté Haute-Saône,IGP,Jura
+676,Franche-Comté Hugier,IGP,Jura
+677,Franche-Comté Motey-Besuche,IGP,Jura
+678,Franche-Comté Offlanges,IGP,Jura
+679,Franche-Comté Vuillafans,IGP,Jura
+680,Fronsac,Communale,Libournais
+681,Fronton,Communale,Toulousain
+682,Gaillac,Communale,Toulousain
+683,Gaillac premières côtes,Communale,Sud-Ouest
+684,Gard,IGP,Languedoc
+685,Gers,IGP,Sud-Ouest
+686,Gevrey-Chambertin,Communale,Côte de Nuits
+687,Gevrey-Chambertin Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+688,Gevrey-Chambertin Premier Cru Au Closeau,Premier Cru,Côte de Nuits
+689,Gevrey-Chambertin Premier Cru Aux Combottes,Premier Cru,Côte de Nuits
+690,Gevrey-Chambertin Premier Cru Bel Air,Premier Cru,Côte de Nuits
+691,Gevrey-Chambertin Premier Cru Champeaux,Premier Cru,Côte de Nuits
+692,Gevrey-Chambertin Premier Cru Champonnet,Premier Cru,Côte de Nuits
+693,Gevrey-Chambertin Premier Cru Cherbaudes,Premier Cru,Côte de Nuits
+694,Gevrey-Chambertin Premier Cru Clos des Varoilles,Premier Cru,Côte de Nuits
+695,Gevrey-Chambertin Premier Cru Clos du Chapitre,Premier Cru,Côte de Nuits
+696,Gevrey-Chambertin Premier Cru Clos Prieur,Premier Cru,Côte de Nuits
+697,Gevrey-Chambertin Premier Cru Clos Saint-Jacques,Premier Cru,Côte de Nuits
+698,Gevrey-Chambertin Premier Cru Combe au Moine,Premier Cru,Côte de Nuits
+699,Gevrey-Chambertin Premier Cru Craipillot,Premier Cru,Côte de Nuits
+700,Gevrey-Chambertin Premier Cru En Ergot,Premier Cru,Côte de Nuits
+701,Gevrey-Chambertin Premier Cru Estournelles-Saint-Jacques,Premier Cru,Côte de Nuits
+702,Gevrey-Chambertin Premier Cru Fonteny,Premier Cru,Côte de Nuits
+703,Gevrey-Chambertin Premier Cru Issarts,Premier Cru,Côte de Nuits
+704,Gevrey-Chambertin Premier Cru La Bossière,Premier Cru,Côte de Nuits
+705,Gevrey-Chambertin Premier Cru La Perrière,Premier Cru,Côte de Nuits
+706,Gevrey-Chambertin Premier Cru La Romanée,Premier Cru,Côte de Nuits
+707,Gevrey-Chambertin Premier Cru Lavaut Saint-Jacques,Premier Cru,Côte de Nuits
+708,Gevrey-Chambertin Premier Cru Les Cazetiers,Premier Cru,Côte de Nuits
+709,Gevrey-Chambertin Premier Cru Les Corbeaux,Premier Cru,Côte de Nuits
+710,Gevrey-Chambertin Premier Cru Les Goulots,Premier Cru,Côte de Nuits
+711,Gevrey-Chambertin Premier Cru Petite Chapelle,Premier Cru,Côte de Nuits
+712,Gevrey-Chambertin Premier Cru Petits Cazetiers,Premier Cru,Côte de Nuits
+713,Gevrey-Chambertin Premier Cru Poissenot,Premier Cru,Côte de Nuits
+714,Gigondas,Communale,Méridional
+715,Givry,Communale,Côte chalonnaise
+716,Givry Premier Cru,Groupe de Premiers Crus,Côte chalonnaise
+717,Givry Premier Cru A Vigne Rouge,Premier Cru,Côte chalonnaise
+718,Givry Premier Cru Champ Nalot,Premier Cru,Côte chalonnaise
+719,Givry Premier Cru Clos Charlé,Premier Cru,Côte chalonnaise
+720,Givry Premier Cru Clos de la Baraude,Premier Cru,Côte chalonnaise
+721,Givry Premier Cru Clos du Cellier aux Moines,Premier Cru,Côte chalonnaise
+722,Givry Premier Cru Clos du Cras long,Premier Cru,Côte chalonnaise
+723,Givry Premier Cru Clos du Vernoy,Premier Cru,Côte chalonnaise
+724,Givry Premier Cru Clos Jus,Premier Cru,Côte chalonnaise
+725,Givry Premier Cru Clos Marceaux,Premier Cru,Côte chalonnaise
+726,Givry Premier Cru Clos Marole,Premier Cru,Côte chalonnaise
+727,Givry Premier Cru Clos-Saint-Paul,Premier Cru,Côte chalonnaise
+728,Givry Premier Cru Clos-Saint-Pierre,Premier Cru,Côte chalonnaise
+729,Givry Premier Cru Clos Salomon,Premier Cru,Côte chalonnaise
+730,Givry Premier Cru Crausot,Premier Cru,Côte chalonnaise
+731,Givry Premier Cru Crémillons,Premier Cru,Côte chalonnaise
+732,Givry Premier Cru En Choué,Premier Cru,Côte chalonnaise
+733,Givry Premier Cru En Veau,Premier Cru,Côte chalonnaise
+734,Givry Premier Cru La Brûlée,Premier Cru,Côte chalonnaise
+735,Givry Premier Cru La Grande Berge,Premier Cru,Côte chalonnaise
+736,Givry Premier Cru La Matrosse,Premier Cru,Côte chalonnaise
+737,Givry Premier Cru La Petite Berge,Premier Cru,Côte chalonnaise
+738,Givry Premier Cru La Plante,Premier Cru,Côte chalonnaise
+739,Givry Premier Cru Le Champ Lalot,Premier Cru,Côte chalonnaise
+740,Givry Premier Cru Le Médenchot,Premier Cru,Côte chalonnaise
+741,Givry Premier Cru Le Paradis,Premier Cru,Côte chalonnaise
+742,Givry Premier Cru Le Petit Prétan,Premier Cru,Côte chalonnaise
+743,Givry Premier Cru Le Pied de Chaume,Premier Cru,Côte chalonnaise
+744,Givry Premier Cru Le Pied du Clou,Premier Cru,Côte chalonnaise
+745,Givry Premier Cru Les Bois Chevaux,Premier Cru,Côte chalonnaise
+746,Givry Premier Cru Les Bois Gautiers,Premier Cru,Côte chalonnaise
+747,Givry Premier Cru Les Combes,Premier Cru,Côte chalonnaise
+748,Givry Premier Cru Les Galaffres,Premier Cru,Côte chalonnaise
+749,Givry Premier Cru Les Grandes Vignes,Premier Cru,Côte chalonnaise
+750,Givry Premier Cru Les Grands Prétans,Premier Cru,Côte chalonnaise
+751,Givry Premier Cru Le Vernoy,Premier Cru,Côte chalonnaise
+752,Givry Premier Cru Le Vigron,Premier Cru,Côte chalonnaise
+753,Givry Premier Cru Petit Marole,Premier Cru,Côte chalonnaise
+754,Givry Premier Cru Servoisine,Premier Cru,Côte chalonnaise
+755,Grand Roussillon,Régionale,Roussillon
+756,Grands-Echezeaux,Grand Cru,Côte de Nuits
+757,Graves,Régionale,Graves
+758,Graves de Vayres,Régionale,Entre-Deux-Mers
+759,Graves supérieures,Régionale,Graves
+760,Grignan-les-Adhémar,Communale,Méridional
+761,Griotte-Chambertin,Grand Cru,Côte de Nuits
+762,Gros Plant du Pays nantais,Régionale,Nantes
+763,Haute-Marne,IGP,Champagne
+764,Hautes-Alpes,IGP,Provence
+765,Haute Vallée de l'Aude,IGP,Aude
+766,Haute Vallée de l'Orb,IGP,Languedoc
+767,Haute-Vienne,IGP,Loire
+768,Haut-Médoc,Régionale,Médoc
+769,Haut-Montravel,Communale,Bergerac
+770,Haut-Poitou,Régionale,Touraine
+771,Hermitage ou Ermitage ou l'Hermitage ou l'Ermitage,Communale,Septentrional
+772,Ile de Beauté,IGP,Corse
+773,Irancy,Communale,Chablisien
+774,Irouléguy,Communale,Piémont Pyrénéen
+775,Isère,IGP,Bugey
+776,Isère Balmes dauphinoises,IGP,Bugey
+777,Isère Coteaux du Grésivaudan,IGP,Bugey
+778,Jasnières,Communale,Touraine
+779,Juliénas,Premier Cru,Crus du Beaujolais
+780,Jurançon,Communale,Piémont Pyrénéen
+781,La Clape,Premier Cru,Languedoc
+782,Ladoix,Communale,Côte de Beaune
+783,Ladoix Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+784,Ladoix Premier Cru Basses Mourottes,Premier Cru,Côte de Beaune
+785,Ladoix Premier Cru Bois Roussot,Premier Cru,Côte de Beaune
+786,Ladoix Premier Cru En Naget,Premier Cru,Côte de Beaune
+787,Ladoix Premier Cru Hautes Mourottes,Premier Cru,Côte de Beaune
+788,Ladoix Premier Cru La Corvée,Premier Cru,Côte de Beaune
+789,Ladoix Premier Cru La Micaude,Premier Cru,Côte de Beaune
+790,Ladoix Premier Cru Le Clou d'Orge,Premier Cru,Côte de Beaune
+791,Ladoix Premier Cru Le Rognet et Corton,Premier Cru,Côte de Beaune
+792,Ladoix Premier Cru Les Buis,Premier Cru,Côte de Beaune
+793,Ladoix Premier Cru Les Grêchons et Foutrières,Premier Cru,Côte de Beaune
+794,Ladoix Premier Cru Les Joyeuses,Premier Cru,Côte de Beaune
+795,La Grande Rue,Grand Cru,Côte de Nuits
+796,Lalande-de-Pomerol,Communale,Libournais
+797,Landes,IGP,Sud-Ouest
+798,Landes Coteaux de Chalosse,IGP,Sud-Ouest
+799,Landes Côtes de l'Adour,IGP,Sud-Ouest
+800,Landes Sables de l'Océan,IGP,Sud-Ouest
+801,Landes Sables fauves,IGP,Sud-Ouest
+802,Languedoc,Régionale,Languedoc
+803,Languedoc Cabrières,Régionale,Languedoc
+804,Languedoc Grés de Montpellier,Régionale,Languedoc
+805,Languedoc La Méjanelle,Régionale,Languedoc
+806,Languedoc Montpeyroux,Régionale,Languedoc
+807,Languedoc Pézenas,Régionale,Languedoc
+808,Languedoc Quatourze,Régionale,Languedoc
+809,Languedoc Saint-Christol,Régionale,Languedoc
+810,Languedoc Saint-Drézéry,Régionale,Languedoc
+811,Languedoc Saint-Georges-d'Orques,Régionale,Languedoc
+812,Languedoc Saint-Saturnin,Régionale,Languedoc
+813,Languedoc Sommières,Régionale,Languedoc
+814,La Romanée,Grand Cru,Côte de Nuits
+815,La Tâche,Grand Cru,Côte de Nuits
+816,Latricières-Chambertin,Grand Cru,Côte de Nuits
+817,Lavilledieu,IGP,Toulousain
+818,Le Pays Cathare,IGP,Languedoc
+819,Les Baux de Provence,Communale,Provence
+820,L'Etoile,Premier Cru,Jura
+821,Limoux,Communale,Languedoc
+822,Lirac,Communale,Méridional
+823,Listrac-Médoc,Communale,Médoc
+824,Loupiac,Communale,Entre-Deux-Mers
+825,Luberon,Communale,Méridional
+826,Lussac-Saint-Emilion,Communale,Libournais
+827,Mâcon,Régionale,Mâconnais
+828,Mâcon Azé,Régionale,Mâconnais
+829,Mâcon Bray,Régionale,Mâconnais
+830,Mâcon Burgy,Régionale,Mâconnais
+831,Mâcon Bussières,Régionale,Mâconnais
+832,Mâcon Chaintré,Régionale,Mâconnais
+833,Mâcon Chardonnay,Régionale,Mâconnais
+834,Mâcon Charnay-lès-Mâcon,Régionale,Mâconnais
+835,Mâcon Cruzille,Régionale,Mâconnais
+836,Mâcon Davayé,Régionale,Mâconnais
+837,Mâcon Fuissé,Régionale,Mâconnais
+838,Mâcon Igé,Régionale,Mâconnais
+839,Mâcon La Roche-Vineuse,Régionale,Mâconnais
+840,Mâcon Loché,Régionale,Mâconnais
+841,Mâcon Lugny,Régionale,Mâconnais
+842,Mâcon Mancey,Régionale,Mâconnais
+843,Mâcon Milly-Lamartine,Régionale,Mâconnais
+844,Mâcon Montbellet,Régionale,Mâconnais
+845,Mâcon Péronne,Régionale,Mâconnais
+846,Mâcon Pierreclos,Régionale,Mâconnais
+847,Mâcon Prissé,Régionale,Mâconnais
+848,Mâcon Saint-Gengoux-le-National,Régionale,Mâconnais
+849,Mâcon Serrières,Régionale,Mâconnais
+850,Mâcon Solutré-Pouilly,Régionale,Mâconnais
+851,Mâcon Uchizy,Régionale,Mâconnais
+852,Mâcon Vergisson,Régionale,Mâconnais
+853,Mâcon Verzé,Régionale,Mâconnais
+854,Mâcon Villages,Régionale,Mâconnais
+855,Mâcon Vinzelles,Régionale,Mâconnais
+856,Macvin du Jura,Régionale,Jura
+857,Madiran,Communale,Piémont Pyrénéen
+858,Malepère,Communale,Languedoc
+859,Maranges,Communale,Côte de Beaune
+860,Maranges Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+861,Maranges Premier Cru Clos de la Boutière,Premier Cru,Côte de Beaune
+862,Maranges Premier Cru Clos de la Fussière,Premier Cru,Côte de Beaune
+863,Maranges Premier Cru La Fussière,Premier Cru,Côte de Beaune
+864,Maranges Premier Cru Le Clos des Loyères,Premier Cru,Côte de Beaune
+865,Maranges Premier Cru Le Clos des Rois,Premier Cru,Côte de Beaune
+866,Maranges Premier Cru Le Croix Moines,Premier Cru,Côte de Beaune
+867,Maranges Premier Cru Les Clos Roussots,Premier Cru,Côte de Beaune
+868,Marcillac,Communale,Aveyron
+869,Margaux,Communale,Médoc
+870,Marsannay,Communale,Côte de Nuits
+871,Maures,IGP,Provence
+872,Maury,Communale,Roussillon
+873,Mazis-Chambertin,Grand Cru,Côte de Nuits
+874,Charmes-Chambertin ou Mazoyères-Chambertin,Grand Cru,Côte de Nuits
+875,Méditerranée,IGP,France
+876,Méditerranée Comté de Grignan,IGP,France
+877,Méditerranée Coteaux de Montélimar,IGP,France
+878,Médoc,Communale,Médoc
+879,Menetou-Salon,Régionale,Centre
+880,Menetou-Salon Aubinges,Communale,Centre
+881,Menetou-Salon Humbligny,Communale,Centre
+882,Menetou-Salon Morogues,Communale,Centre
+883,Menetou-Salon Parassy,Communale,Centre
+884,Menetou-Salon Pigny,Communale,Centre
+885,Menetou-Salon Quantilly,Communale,Centre
+886,Menetou-Salon Saint-Céols,Communale,Centre
+887,Menetou-Salon Soulangis,Communale,Centre
+888,Menetou-Salon Val de Loire,Régionale,Centre
+889,Menetou-Salon Vignoux-sous-les-Aix,Communale,Centre
+890,Mercurey,Communale,Côte chalonnaise
+891,Mercurey Premier Cru,Groupe de Premiers Crus,Côte chalonnaise
+892,Mercurey Premier Cru Clos de Paradis,Premier Cru,Côte chalonnaise
+893,Mercurey Premier Cru Clos des Barraults,Premier Cru,Côte chalonnaise
+894,Mercurey Premier Cru Clos des grands Voyens,Premier Cru,Côte chalonnaise
+895,Mercurey Premier Cru Clos des Montaigus,Premier Cru,Côte chalonnaise
+896,Mercurey Premier Cru Clos des Myglands,Premier Cru,Côte chalonnaise
+897,Mercurey Premier Cru Clos du Château de Montaigu,Premier Cru,Côte chalonnaise
+898,Mercurey Premier Cru Clos Marcilly,Premier Cru,Côte chalonnaise
+899,Mercurey Premier Cru Clos Tonnerre,Premier Cru,Côte chalonnaise
+900,Mercurey Premier Cru Clos Voyens,Premier Cru,Côte chalonnaise
+901,Mercurey Premier Cru Grand Clos Fortoul,Premier Cru,Côte chalonnaise
+902,Mercurey Premier Cru Griffères,Premier Cru,Côte chalonnaise
+903,Mercurey Premier Cru La Bondue,Premier Cru,Côte chalonnaise
+904,Mercurey Premier Cru La Cailloute,Premier Cru,Côte chalonnaise
+905,Mercurey Premier Cru La Chassière,Premier Cru,Côte chalonnaise
+906,Mercurey Premier Cru La Levrière,Premier Cru,Côte chalonnaise
+907,Mercurey Premier Cru La Mission,Premier Cru,Côte chalonnaise
+908,Mercurey Premier Cru Le Clos du Roy,Premier Cru,Côte chalonnaise
+909,Mercurey Premier Cru Le Clos l'Evêque,Premier Cru,Côte chalonnaise
+910,Mercurey Premier Cru Les Byots,Premier Cru,Côte chalonnaise
+911,Mercurey Premier Cru Les Champs Martin,Premier Cru,Côte chalonnaise
+912,Mercurey Premier Cru Les Combins,Premier Cru,Côte chalonnaise
+913,Mercurey Premier Cru Les Crêts,Premier Cru,Côte chalonnaise
+914,Mercurey Premier Cru Les Croichots,Premier Cru,Côte chalonnaise
+915,Mercurey Premier Cru Les Fourneaux,Premier Cru,Côte chalonnaise
+916,Mercurey Premier Cru Les Montaigus,Premier Cru,Côte chalonnaise
+917,Mercurey Premier Cru Les Naugues,Premier Cru,Côte chalonnaise
+918,Mercurey Premier Cru Les Puillets,Premier Cru,Côte chalonnaise
+919,Mercurey Premier Cru Les Ruelles,Premier Cru,Côte chalonnaise
+920,Mercurey Premier Cru Les Saumonts,Premier Cru,Côte chalonnaise
+921,Mercurey Premier Cru Les Vasées,Premier Cru,Côte chalonnaise
+922,Mercurey Premier Cru Les Velley,Premier Cru,Côte chalonnaise
+923,Mercurey Premier Cru Sazenay,Premier Cru,Côte chalonnaise
+924,Meursault,Communale,Côte de Beaune
+925,Meursault La Garenne,,
+926,Meursault ou Meursault Côte de Beaune,,
+927,Meursault Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+928,Meursault Premier Cru Blagny,Premier Cru,Côte de Beaune
+929,Meursault Premier Cru Charmes,Premier Cru,Côte de Beaune
+930,Meursault Premier Cru Clos des Perrières,Premier Cru,Côte de Beaune
+931,Meursault Premier Cru Genevrières,Premier Cru,Côte de Beaune
+932,Meursault Premier Cru La Jeunellotte,Premier Cru,Côte de Beaune
+933,Meursault Premier Cru La Pièce sous le Bois,Premier Cru,Côte de Beaune
+934,Meursault Premier Cru Le Porusot,Premier Cru,Côte de Beaune
+935,Meursault Premier Cru Les Bouchères,Premier Cru,Côte de Beaune
+936,Meursault Premier Cru Les Caillerets,Premier Cru,Côte de Beaune
+937,Meursault Premier Cru Les Cras,Premier Cru,Côte de Beaune
+938,Meursault Premier Cru Les Gouttes d'Or,Premier Cru,Côte de Beaune
+939,Meursault Premier Cru Les Plures,Premier Cru,Côte de Beaune
+940,Meursault Premier Cru Les Ravelles,Premier Cru,Côte de Beaune
+941,Meursault Premier Cru Les Santenots Blancs,Premier Cru,Côte de Beaune
+942,Meursault Premier Cru Les Santenots du Milieu,Premier Cru,Côte de Beaune
+943,Meursault Premier Cru Perrières,Premier Cru,Côte de Beaune
+944,Meursault Premier Cru Porusot,Premier Cru,Côte de Beaune
+945,Meursault Premier Cru Sous Blagny,Premier Cru,Côte de Beaune
+947,Meursault Premier Cru Sous le Dos d'Ane,Premier Cru,Côte de Beaune
+948,Meursault Sous le Puits,,
+949,Meursault Sur la Garenne,,
+950,Minervois,Communale,Languedoc
+951,Minervois-La Livinière,Premier Cru,Languedoc
+952,Monbazillac,Communale,Bergerac
+953,Montagne-Saint-Emilion,Communale,Libournais
+954,Montagny,Communale,Côte chalonnaise
+955,Montagny Premier Cru,Groupe de Premiers Crus,Côte chalonnaise
+956,Montagny Premier Cru Champ Toizeau,Premier Cru,Côte chalonnaise
+957,Montagny Premier Cru Chazelle,Premier Cru,Côte chalonnaise
+958,Montagny Premier Cru Cornevent,Premier Cru,Côte chalonnaise
+959,Montagny Premier Cru Creux de Beaux champs,Premier Cru,Côte chalonnaise
+960,Montagny Premier Cru La Condemine du Vieux Château,Premier Cru,Côte chalonnaise
+961,Montagny Premier Cru La Grande Pièce,Premier Cru,Côte chalonnaise
+962,Montagny Premier Cru La Moullière,Premier Cru,Côte chalonnaise
+963,Montagny Premier Cru Le Clos Chaudron,Premier Cru,Côte chalonnaise
+964,Montagny Premier Cru Le Cloux,Premier Cru,Côte chalonnaise
+965,Montagny Premier Cru Le Clouzot,Premier Cru,Côte chalonnaise
+966,Montagny Premier Cru L'Epaule,Premier Cru,Côte chalonnaise
+967,Montagny Premier Cru Les Bassets,Premier Cru,Côte chalonnaise
+968,Montagny Premier Cru Les Beaux champs,Premier Cru,Côte chalonnaise
+969,Montagny Premier Cru Les Bonneveaux,Premier Cru,Côte chalonnaise
+970,Montagny Premier Cru Les Bordes,Premier Cru,Côte chalonnaise
+971,Montagny Premier Cru Les Bouchots,Premier Cru,Côte chalonnaise
+972,Montagny Premier Cru Les Burnins,Premier Cru,Côte chalonnaise
+973,Montagny Premier Cru Les Chaniots,Premier Cru,Côte chalonnaise
+974,Montagny Premier Cru Les Chaumelottes,Premier Cru,Côte chalonnaise
+975,Montagny Premier Cru Les Coères,Premier Cru,Côte chalonnaise
+976,Montagny Premier Cru Les Combes,Premier Cru,Côte chalonnaise
+977,Montagny Premier Cru Les Coudrettes,Premier Cru,Côte chalonnaise
+978,Montagny Premier Cru Les Craboulettes,Premier Cru,Côte chalonnaise
+979,Montagny Premier Cru Les Garchères,Premier Cru,Côte chalonnaise
+980,Montagny Premier Cru Les Gouresses,Premier Cru,Côte chalonnaise
+981,Montagny Premier Cru Les Jardins,Premier Cru,Côte chalonnaise
+982,Montagny Premier Cru Les Las,Premier Cru,Côte chalonnaise
+983,Montagny Premier Cru Les Macles,Premier Cru,Côte chalonnaise
+984,Montagny Premier Cru Les Maroques,Premier Cru,Côte chalonnaise
+985,Montagny Premier Cru Les Paquiers,Premier Cru,Côte chalonnaise
+986,Montagny Premier Cru Les Perrières,Premier Cru,Côte chalonnaise
+987,Montagny Premier Cru Les Pidances,Premier Cru,Côte chalonnaise
+988,Montagny Premier Cru Les Platières,Premier Cru,Côte chalonnaise
+989,Montagny Premier Cru Les Resses,Premier Cru,Côte chalonnaise
+990,Montagny Premier Cru Les Treuffères,Premier Cru,Côte chalonnaise
+991,Montagny Premier Cru Les Vignes Derrière,Premier Cru,Côte chalonnaise
+992,Montagny Premier Cru Les Vignes des Prés,Premier Cru,Côte chalonnaise
+993,Montagny Premier Cru Les Vignes longues,Premier Cru,Côte chalonnaise
+994,Montagny Premier Cru Le Vieux Château,Premier Cru,Côte chalonnaise
+995,Montagny Premier Cru Montcuchot,Premier Cru,Côte chalonnaise
+996,Montagny Premier Cru Mont Laurent,Premier Cru,Côte chalonnaise
+997,Montagny Premier Cru Montorge,Premier Cru,Côte chalonnaise
+998,Montagny Premier Cru Sainte-Morille,Premier Cru,Côte chalonnaise
+999,Montagny Premier Cru Saint-Ytages,Premier Cru,Côte chalonnaise
+1000,Montagny Premier Cru Sous les Feilles,Premier Cru,Côte chalonnaise
+1001,Montagny Premier Cru Vigne du soleil,Premier Cru,Côte chalonnaise
+1002,Montagny Premier Cru Vignes Couland,Premier Cru,Côte chalonnaise
+1003,Montagny Premier Cru Vignes Saint-Pierre,Premier Cru,Côte chalonnaise
+1004,Montagny Premier Cru Vignes sur le Cloux,Premier Cru,Côte chalonnaise
+1005,Mont Caume,IGP,France
+1006,Monthélie,Communale,Côte de Beaune
+1007,Monthélie Côte de Beaune,,
+1008,Monthélie Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1009,Monthélie Premier Cru Clos des Toisières,Premier Cru,Côte de Beaune
+1010,Monthélie Premier Cru La Taupine,Premier Cru,Côte de Beaune
+1011,Monthélie Premier Cru Le Cas Rougeot,Premier Cru,Côte de Beaune
+1012,Monthélie Premier Cru Le Château Gaillard,Premier Cru,Côte de Beaune
+1013,Monthélie Premier Cru Le Clos Gauthey,Premier Cru,Côte de Beaune
+1014,Monthélie Premier Cru Le Clou des Chênes,Premier Cru,Côte de Beaune
+1015,Monthélie Premier Cru Le Meix Bataille,Premier Cru,Côte de Beaune
+1016,Monthélie Premier Cru Les Barbières,Premier Cru,Côte de Beaune
+1017,Monthélie Premier Cru Les Champs Fulliots,Premier Cru,Côte de Beaune
+1018,Monthélie Premier Cru Les Clous,Premier Cru,Côte de Beaune
+1019,Monthélie Premier Cru Les Duresses,Premier Cru,Côte de Beaune
+1020,Monthélie Premier Cru Les Riottes,Premier Cru,Côte de Beaune
+1021,Monthélie Premier Cru Les Vignes Rondes,Premier Cru,Côte de Beaune
+1022,Monthélie Premier Cru Le Village,Premier Cru,Côte de Beaune
+1023,Monthélie Premier Cru Sur la Velle,Premier Cru,Côte de Beaune
+1024,Montlouis-sur-Loire,Communale,Touraine
+1025,Montrachet,Grand Cru,Côte de Beaune
+1026,Montravel,Communale,Bergerac
+1027,Morey-Saint-Denis,Communale,Côte de Nuits
+1028,Morey-Saint-Denis Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+1029,Morey-Saint-Denis Premier Cru Aux Charmes,Premier Cru,Côte de Nuits
+1030,Morey-Saint-Denis Premier Cru Aux Cheseaux,Premier Cru,Côte de Nuits
+1031,Morey-Saint-Denis Premier Cru Clos Baulet,Premier Cru,Côte de Nuits
+1032,Morey-Saint-Denis Premier Cru Clos des Ormes,Premier Cru,Côte de Nuits
+1033,Morey-Saint-Denis Premier Cru Clos Sorbè,Premier Cru,Côte de Nuits
+1034,Morey-Saint-Denis Premier Cru Côte Rotie,Premier Cru,Côte de Nuits
+1035,Morey-Saint-Denis Premier Cru La Bussière,Premier Cru,Côte de Nuits
+1036,Morey-Saint-Denis Premier Cru La Riotte,Premier Cru,Côte de Nuits
+1037,Morey-Saint-Denis Premier Cru Les Blanchards,Premier Cru,Côte de Nuits
+1038,Morey-Saint-Denis Premier Cru Les Chaffots,Premier Cru,Côte de Nuits
+1039,Morey-Saint-Denis Premier Cru Les Charrières,Premier Cru,Côte de Nuits
+1040,Morey-Saint-Denis Premier Cru Les Chenevery,Premier Cru,Côte de Nuits
+1041,Morey-Saint-Denis Premier Cru Les Faconnières,Premier Cru,Côte de Nuits
+1042,Morey-Saint-Denis Premier Cru Les Genavrières,Premier Cru,Côte de Nuits
+1043,Morey-Saint-Denis Premier Cru Les Gruenchers,Premier Cru,Côte de Nuits
+1044,Morey-Saint-Denis Premier Cru Les Millandes,Premier Cru,Côte de Nuits
+1045,Morey-Saint-Denis Premier Cru Les Ruchots,Premier Cru,Côte de Nuits
+1046,Morey-Saint-Denis Premier Cru Les Sorbès,Premier Cru,Côte de Nuits
+1047,Morey-Saint-Denis Premier Cru Le Village,Premier Cru,Côte de Nuits
+1048,Morey-Saint-Denis Premier Cru Monts Luisants,Premier Cru,Côte de Nuits
+1049,Morgon,Premier Cru,Crus du Beaujolais
+1050,Moselle,Régionale,Moselle
+1051,Moulin-à-Vent,Premier Cru,Crus du Beaujolais
+1052,Moulis ou Moulis-en-Médoc,Communale,Médoc
+1053,Muscadet,Régionale,Nantes
+1054,Muscadet Coteaux de la Loire,Régionale,Nantes
+1055,Muscadet Côtes de Grandlieu,Régionale,Nantes
+1056,Muscadet Côtes de Grandlieu Val de Loire,Régionale,Nantes
+1057,Muscadet Sèvre et Maine,Régionale,Nantes
+1058,Muscadet Sèvre et Maine Clisson,Communale,Nantes
+1059,Muscadet Sèvre et Maine Gorges,Communale,Nantes
+1060,Muscadet Sèvre et Maine Le Pallet,Communale,Nantes
+1061,Muscadet Sèvre et Maine Val de Loire,Communale,Nantes
+1062,Muscat de Beaumes-de-Venise,Communale,Méridional
+1063,Muscat de Frontignan ou Frontignan ou Vin de Frontignan,Communale,Languedoc
+1064,Muscat de Lunel,Communale,Languedoc
+1065,Muscat de Mireval,Communale,Languedoc
+1066,Muscat de Rivesaltes,Communale,Roussillon
+1067,Muscat de Saint-Jean-de-Minervois,Communale,Languedoc
+1068,Muscat du Cap Corse,Communale,Corse
+1069,Musigny,Grand Cru,Côte de Nuits
+1070,Nuits-Saint-Georges,Communale,Côte de Nuits
+1071,Nuits-Saint-Georges Clos des Forêts Saint-Georges,Premier Cru,Côte de Nuits
+1072,Nuits-Saint-Georges Clos des Grandes Vignes,Premier Cru,Côte de Nuits
+1073,Nuits-Saint-Georges Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+1074,Nuits-Saint-Georges Premier Cru Aux Argillas,Premier Cru,Côte de Nuits
+1075,Nuits-Saint-Georges Premier Cru Aux Boudots,Premier Cru,Côte de Nuits
+1076,Nuits-Saint-Georges Premier Cru Aux Bousselots,Premier Cru,Côte de Nuits
+1077,Nuits-Saint-Georges Premier Cru Aux Chaignots,Premier Cru,Côte de Nuits
+1078,Nuits-Saint-Georges Premier Cru Aux Champs Perdrix,Premier Cru,Côte de Nuits
+1079,Nuits-Saint-Georges Premier Cru Aux Cras,Premier Cru,Côte de Nuits
+1080,Nuits-Saint-Georges Premier Cru Aux Murgers,Premier Cru,Côte de Nuits
+1081,Nuits-Saint-Georges Premier Cru Aux Perdrix,Premier Cru,Côte de Nuits
+1082,Nuits-Saint-Georges Premier Cru Aux Thorey,Premier Cru,Côte de Nuits
+1083,Nuits-Saint-Georges Premier Cru Aux Vignerondes,Premier Cru,Côte de Nuits
+1084,Nuits-Saint-Georges Premier Cru Chaines Carteaux,Premier Cru,Côte de Nuits
+1085,Nuits-Saint-Georges Premier Cru Château Gris,Premier Cru,Côte de Nuits
+1086,Nuits-Saint-Georges Premier Cru Clos Arlot,Premier Cru,Côte de Nuits
+1087,Nuits-Saint-Georges Premier Cru Clos de la Maréchale,Premier Cru,Côte de Nuits
+1088,Nuits-Saint-Georges Premier Cru Clos des Argillières,Premier Cru,Côte de Nuits
+1089,Nuits-Saint-Georges Premier Cru Clos des Corvées,Premier Cru,Côte de Nuits
+1090,Nuits-Saint-Georges Premier Cru Clos des Corvées Pagets,Premier Cru,Côte de Nuits
+1091,Nuits-Saint-Georges Premier Cru Clos des Forêts Saint-Georges,Premier Cru,Côte de Nuits
+1092,Nuits-Saint-Georges Premier Cru Clos des Porrets-Saint-Georges,Premier Cru,Côte de Nuits
+1093,Nuits-Saint-Georges Premier Cru Clos Saint-Marc,Premier Cru,Côte de Nuits
+1094,Nuits-Saint-Georges Premier Cru En la Perrière Noblot,Premier Cru,Côte de Nuits
+1095,Nuits-Saint-Georges Premier Cru La Richemone,Premier Cru,Côte de Nuits
+1096,Nuits-Saint-Georges Premier Cru Les Argillières,Premier Cru,Côte de Nuits
+1097,Nuits-Saint-Georges Premier Cru Les Cailles,Premier Cru,Côte de Nuits
+1099,Nuits-Saint-Georges premier cru Les Chabœufs,Premier Cru,Côte de Nuits
+1100,Nuits-Saint-Georges Premier Cru Les Crots,Premier Cru,Côte de Nuits
+1101,Nuits-Saint-Georges Premier Cru les Damodes,Premier Cru,Côte de Nuits
+1102,Nuits-Saint-Georges Premier Cru Les Didiers,Premier Cru,Côte de Nuits
+1103,Nuits-Saint-Georges Premier Cru Les Hauts Pruliers,Premier Cru,Côte de Nuits
+1104,Nuits-Saint-Georges Premier Cru Les Perrières,Premier Cru,Côte de Nuits
+1105,Nuits-Saint-Georges Premier Cru Les Porrets-Saint-Georges,Premier Cru,Côte de Nuits
+1106,Nuits-Saint-Georges Premier Cru Les Poulettes,Premier Cru,Côte de Nuits
+1107,Nuits-Saint-Georges Premier Cru Les Procès,Premier Cru,Côte de Nuits
+1108,Nuits-Saint-Georges Premier Cru Les Pruliers,Premier Cru,Côte de Nuits
+1109,Nuits-Saint-Georges Premier Cru Les Saints-Georges,Premier Cru,Côte de Nuits
+1110,Nuits-Saint-Georges Premier Cru Les Terres Blanches,Premier Cru,Côte de Nuits
+1111,Nuits-Saint-Georges Premier Cru Les Vallerots,Premier Cru,Côte de Nuits
+1112,Nuits-Saint-Georges Premier Cru Les Vaucrains,Premier Cru,Côte de Nuits
+1113,Nuits-Saint-Georges Premier Cru Roncière,Premier Cru,Côte de Nuits
+1114,Nuits-Saint-Georges Premier Cru Rue de Chaux,Premier Cru,Côte de Nuits
+1115,Orléans,Régionale,Centre
+1116,Orléans-Cléry,Communale,Centre
+1117,Pacherenc du Vic-Bilh,Communale,Piémont Pyrénéen
+1118,Palette,Communale,Provence
+1119,Patrimonio,Communale,Corse
+1120,Pauillac,Communale,Médoc
+1121,Pays de Brive,IGP,Limousin
+1122,Pays d'Hérault,IGP,Languedoc
+1123,Pays d'Hérault Bénovie,IGP,Languedoc
+1124,Pays d'Hérault Bérange,IGP,Languedoc
+1125,Pays d'Hérault Cassan,IGP,Languedoc
+1126,Pays d'Hérault Cessenon,IGP,Languedoc
+1127,Pays d'Hérault Collines de la Moure,IGP,Languedoc
+1128,Pays d'Hérault Coteaux de Bessilles,IGP,Languedoc
+1129,Pays d'Hérault Coteaux de Fontcaude,IGP,Languedoc
+1130,Pays d'Hérault Coteaux de Laurens,IGP,Languedoc
+1131,Pays d'Hérault Coteaux de Murviel,IGP,Languedoc
+1132,Pays d'Hérault Coteaux du Salagou,IGP,Languedoc
+1133,Pays d'Hérault Côtes du Brian,IGP,Languedoc
+1134,Pays d'Hérault Côtes du Ceressou,IGP,Languedoc
+1135,Pays d'Hérault Mont Baudile,IGP,Languedoc
+1136,Pays d'Hérault Monts de la Grage,IGP,Languedoc
+1137,Pays d'Hérault Pays de Bessan,IGP,Languedoc
+1138,Pays d'Hérault Pays de Caux,IGP,Languedoc
+1139,Pays d'Oc,IGP,Languedoc-Roussillon
+1140,Pécharmant,Communale,Bergerac
+1141,Périgord,IGP,Bergerac
+1142,Périgord Dordogne,IGP,Bergerac
+1143,Périgord Vin de Domme,IGP,Bergerac
+1144,Pernand-Vergelesses,Communale,Côte de Beaune
+1145,Pernand-Vergelesses Côte de Beaune,,
+1146,Pernand-Vergelesses Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1147,Pernand-Vergelesses Premier Cru Clos Berthet,Premier Cru,Côte de Beaune
+1148,Pernand-Vergelesses Premier Cru Creux de la Net,Premier Cru,Côte de Beaune
+1149,Pernand-Vergelesses Premier Cru En Caradeux,Premier Cru,Côte de Beaune
+1150,Pernand-Vergelesses Premier Cru Ile des Vergelesses,Premier Cru,Côte de Beaune
+1151,Pernand-Vergelesses Premier Cru Les Fichots,Premier Cru,Côte de Beaune
+1152,Pernand-Vergelesses Premier Cru Sous Frétille,Premier Cru,Côte de Beaune
+1153,Pernand-Vergelesses Premier Cru Vergelesses,Premier Cru,Côte de Beaune
+1154,Pernand-Vergelesses Premier Cru Village de Pernand,Premier Cru,Côte de Beaune
+1155,Pessac-Léognan,Communale,Graves
+1156,Petit Chablis,Communale,Chablisien
+1157,Picpoul de Pinet,Communale,Languedoc
+1158,Pic Saint-Loup,Premier Cru,Languedoc
+1159,Pierrevert,Communale,Provence
+1160,Pomerol,Communale,Libournais
+1161,Pommard,Communale,Côte de Beaune
+1162,Pommard Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1163,Pommard Premier Cru Clos Blanc,Premier Cru,Côte de Beaune
+1164,Pommard Premier Cru Clos de la Commaraine,Premier Cru,Côte de Beaune
+1165,Pommard Premier Cru Clos des Epeneaux,Premier Cru,Côte de Beaune
+1166,Pommard Premier Cru Clos de Verger,Premier Cru,Côte de Beaune
+1167,Pommard Premier Cru Derrière Saint-Jean,Premier Cru,Côte de Beaune
+1168,Pommard Premier Cru En Largillière,Premier Cru,Côte de Beaune
+1169,Pommard Premier Cru La Chanière,Premier Cru,Côte de Beaune
+1170,Pommard Premier Cru La Platière,Premier Cru,Côte de Beaune
+1171,Pommard Premier Cru La Refène,Premier Cru,Côte de Beaune
+1172,Pommard Premier Cru Le Clos Micot,Premier Cru,Côte de Beaune
+1173,Pommard Premier Cru Les Arvelets,Premier Cru,Côte de Beaune
+1174,Pommard Premier Cru Les Bertins,Premier Cru,Côte de Beaune
+1175,Pommard Premier Cru Les Boucherottes,Premier Cru,Côte de Beaune
+1176,Pommard Premier Cru Les Chanlins-Bas,Premier Cru,Côte de Beaune
+1177,Pommard Premier Cru Les Chaponnières,Premier Cru,Côte de Beaune
+1178,Pommard Premier Cru Les Charmots,Premier Cru,Côte de Beaune
+1179,Pommard Premier Cru Les Combes Dessus,Premier Cru,Côte de Beaune
+1180,Pommard Premier Cru Les Croix noires,Premier Cru,Côte de Beaune
+1181,Pommard Premier Cru Les Fremiers,Premier Cru,Côte de Beaune
+1182,Pommard Premier Cru Les Grands Epenots,Premier Cru,Côte de Beaune
+1183,Pommard Premier Cru Les Jarolières,Premier Cru,Côte de Beaune
+1184,Pommard Premier Cru Les Petits Epenots,Premier Cru,Côte de Beaune
+1185,Pommard Premier Cru Les Pézerolles,Premier Cru,Côte de Beaune
+1186,Pommard Premier Cru Les Poutures,Premier Cru,Côte de Beaune
+1187,Pommard Premier Cru Les Rugiens Bas,Premier Cru,Côte de Beaune
+1188,Pommard Premier Cru Les Rugiens Hauts,Premier Cru,Côte de Beaune
+1189,Pommard Premier Cru Les Saussilles,Premier Cru,Côte de Beaune
+1190,Pommard Premier Cru Le Village,Premier Cru,Côte de Beaune
+1191,Pouilly-Fuissé,Communale,Mâconnais
+1192,Pouilly-Fumé ou Blanc Fumé de Pouilly,Communale,Centre
+1193,Pouilly-Loché,Communale,Mâconnais
+1194,Pouilly-sur-Loire,Communale,Centre
+1195,Pouilly-Vinzelles,Communale,Mâconnais
+1196,Premières Côtes de Bordeaux,Régionale,Entre-Deux-Mers
+1197,Puisseguin-Saint-Emilion,Régionale,Libournais
+1198,Puligny-Montrachet,Communale,Côte de Beaune
+1199,Puligny-Montrachet ou Puligny-Montrachet Côte de Beaune,,
+1200,Puligny-Montrachet Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1201,Puligny-Montrachet Premier Cru Champ Canet,Premier Cru,Côte de Beaune
+1202,Puligny-Montrachet Premier Cru Champ Gain,Premier Cru,Côte de Beaune
+1203,Puligny-Montrachet Premier Cru Clavaillon,Premier Cru,Côte de Beaune
+1204,Puligny-Montrachet Premier Cru Clos de la Garenne,Premier Cru,Côte de Beaune
+1205,Puligny-Montrachet Premier Cru Clos de la Mouchère,Premier Cru,Côte de Beaune
+1206,Puligny-Montrachet Premier Cru Hameau de Blagny,Premier Cru,Côte de Beaune
+1207,Puligny-Montrachet Premier Cru La Garenne,Premier Cru,Côte de Beaune
+1208,Puligny-Montrachet Premier Cru La Truffière,Premier Cru,Côte de Beaune
+1209,Puligny-Montrachet Premier Cru Le Cailleret,Premier Cru,Côte de Beaune
+1210,Puligny-Montrachet Premier Cru Les Chalumaux,Premier Cru,Côte de Beaune
+1211,Puligny-Montrachet Premier Cru Les Combettes,Premier Cru,Côte de Beaune
+1212,Puligny-Montrachet Premier Cru Les Demoiselles,Premier Cru,Côte de Beaune
+1213,Puligny-Montrachet Premier Cru Les Folatières,Premier Cru,Côte de Beaune
+1214,Puligny-Montrachet Premier Cru Les Perrières,Premier Cru,Côte de Beaune
+1215,Puligny-Montrachet Premier Cru Les Pucelles,Premier Cru,Côte de Beaune
+1216,Puligny-Montrachet Premier Cru Les Referts,Premier Cru,Côte de Beaune
+1217,Puligny-Montrachet Premier Cru Sous le Puits,Premier Cru,Côte de Beaune
+1218,Puy-de-Dôme,IGP,Auvergne
+1219,Quarts de Chaume Grand Cru,Communale,Anjou-Saumur
+1219,Quarts de Chaume Grand Cru,Grand Cru,Anjou-Saumur
+1220,Quincy,Communale,Centre
+1221,Rasteau,Communale,Méridional
+1222,Régnié,Premier Cru,Crus du Beaujolais
+1223,Reuilly,Communale,Centre
+1224,Richebourg,Grand Cru,Côte de Nuits
+1225,Romanée-Conti,Grand Cru,Côte de Nuits
+1226,Romanée-Saint-Vivant,Grand Cru,Côte de Nuits
+1227,Rosé d'Anjou,Régionale,Anjou-Saumur
+1228,Rosé de Loire,Régionale,Loire
+1229,Rosé des Riceys,Régionale,Champagne
+1230,Rosette,Communale,Bergerac
+1231,Roussette de Savoie,Régionale,Savoie
+1232,Roussette de Savoie Frangy,Communale,Savoie
+1233,Roussette de Savoie Marestel,Communale,Savoie
+1234,Roussette de Savoie Monterminod,Communale,Savoie
+1235,Roussette de Savoie Monthoux,Communale,Savoie
+1236,Roussette du Bugey,Communale,Bugey
+1237,Roussette du Bugey Montagnieu,Communale,Bugey
+1238,Roussette du Bugey Virieu-le-Grand,Communale,Bugey
+1239,Ruchottes-Chambertin,Grand Cru,Côte de Nuits
+1240,Rully,Communale,Côte chalonnaise
+1241,Rully Premier Cru,Groupe de Premiers Crus,Côte chalonnaise
+1242,Rully Premier Cru Agneux,Premier Cru,Côte chalonnaise
+1243,Rully Premier Cru Champs Cloux,Premier Cru,Côte chalonnaise
+1244,Rully Premier Cru Chapitre,Premier Cru,Côte chalonnaise
+1245,Rully Premier Cru Clos du Chaigne,Premier Cru,Côte chalonnaise
+1246,Rully Premier Cru Clos St Jacques,Premier Cru,Côte chalonnaise
+1247,Rully Premier Cru Cloux,Premier Cru,Côte chalonnaise
+1248,Rully Premier Cru Grésigny,Premier Cru,Côte chalonnaise
+1249,Rully Premier Cru La Bressande,Premier Cru,Côte chalonnaise
+1250,Rully Premier Cru La Fosse,Premier Cru,Côte chalonnaise
+1251,Rully Premier Cru La Pucelle,Premier Cru,Côte chalonnaise
+1252,Rully Premier Cru La Renarde,Premier Cru,Côte chalonnaise
+1253,Rully Premier Cru Le Meix Cadot,Premier Cru,Côte chalonnaise
+1254,Rully Premier Cru Le Meix Caillet,Premier Cru,Côte chalonnaise
+1255,Rully Premier Cru Les Pierres,Premier Cru,Côte chalonnaise
+1256,Rully Premier Cru Margotés,Premier Cru,Côte chalonnaise
+1257,Rully Premier Cru Marissou,Premier Cru,Côte chalonnaise
+1258,Rully Premier Cru Molesme,Premier Cru,Côte chalonnaise
+1259,Rully Premier Cru Montpalais,Premier Cru,Côte chalonnaise
+1260,Rully Premier Cru Pillot,Premier Cru,Côte chalonnaise
+1261,Rully Premier Cru Préaux,Premier Cru,Côte chalonnaise
+1262,Rully Premier Cru Rabourcé,Premier Cru,Côte chalonnaise
+1263,Rully Premier Cru Raclot,Premier Cru,Côte chalonnaise
+1264,Rully Premier Cru Vauvry,Premier Cru,Côte chalonnaise
+1265,Sable de Camargue,IGP,France
+1266,Saint-Amour,Premier Cru,Crus du Beaujolais
+1267,Saint-Aubin,Communale,Côte de Beaune
+1268,Saint-Aubin ou Saint-Aubin Côte de Beaune,,
+1269,Saint-Aubin Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1270,Saint-Aubin Premier Cru Bas de Vermarain à l'Est,Premier Cru,Côte de Beaune
+1271,Saint-Aubin Premier Cru Derrière Chez Edouard,Premier Cru,Côte de Beaune
+1272,Saint-Aubin Premier Cru Derrière la Tour,Premier Cru,Côte de Beaune
+1273,Saint-Aubin Premier Cru Echaille,Premier Cru,Côte de Beaune
+1274,Saint-Aubin Premier Cru En Créot,Premier Cru,Côte de Beaune
+1275,Saint-Aubin Premier Cru En la Ranché,Premier Cru,Côte de Beaune
+1276,Saint-Aubin Premier Cru En Montceau,Premier Cru,Côte de Beaune
+1277,Saint-Aubin Premier Cru En Remilly,Premier Cru,Côte de Beaune
+1278,Saint-Aubin Premier Cru En Vollon à l'Est,Premier Cru,Côte de Beaune
+1279,Saint-Aubin Premier Cru Es Champs,Premier Cru,Côte de Beaune
+1280,Saint-Aubin Premier Cru La Chatenière,Premier Cru,Côte de Beaune
+1281,Saint-Aubin Premier Cru Le Bas de Gamay à l'Est,Premier Cru,Côte de Beaune
+1282,Saint-Aubin Premier Cru Le Charmois,Premier Cru,Côte de Beaune
+1283,Saint-Aubin Premier Cru Le Puits,Premier Cru,Côte de Beaune
+1284,Saint-Aubin Premier Cru Les Castets,Premier Cru,Côte de Beaune
+1285,Saint-Aubin Premier Cru Les Champlots,Premier Cru,Côte de Beaune
+1286,Saint-Aubin Premier Cru Les Combes,Premier Cru,Côte de Beaune
+1287,Saint-Aubin Premier Cru Les Combes au Sud,Premier Cru,Côte de Beaune
+1288,Saint-Aubin Premier Cru Les Cortons,Premier Cru,Côte de Beaune
+1289,Saint-Aubin Premier Cru Les Frionnes,Premier Cru,Côte de Beaune
+1290,Saint-Aubin Premier Cru Les Murgers des dents de chien,Premier Cru,Côte de Beaune
+1291,Saint-Aubin Premier Cru Les Perrières,Premier Cru,Côte de Beaune
+1292,Saint-Aubin Premier Cru Les Travers de Marinot,Premier Cru,Côte de Beaune
+1293,Saint-Aubin Premier Cru Marinot,Premier Cru,Côte de Beaune
+1294,Saint-Aubin Premier Cru Pitangeret,Premier Cru,Côte de Beaune
+1295,Saint-Aubin Premier Cru Sous Roche Dumay,Premier Cru,Côte de Beaune
+1296,Saint-Aubin Premier Cru Sur Gamay,Premier Cru,Côte de Beaune
+1297,Saint-Aubin Premier Cru Sur le sentier du Clou,Premier Cru,Côte de Beaune
+1298,Saint-Aubin Premier Cru Vignes Moingeon,Premier Cru,Côte de Beaune
+1299,Saint-Aubin Premier Cru Village,Premier Cru,Côte de Beaune
+1300,Saint-Bris,Communale,Chablisien
+1301,Saint-Chinian,Communale,Languedoc
+1302,Saint-Chinian Berlou,Communale,Languedoc
+1303,Saint-Chinian Roquebrun,Communale,Languedoc
+1304,Sainte-Croix-du-Mont,Régionale,Entre-Deux-Mers
+1305,Sainte-Foy-Bordeaux,Régionale,Entre-Deux-Mers
+1306,Sainte-Marie-la-blanche,IGP,Bourgogne
+1307,Saint-Emilion,Communale,Libournais
+1308,Saint-Emilion Grand Cru,Communale,Libournais
+1308,Saint-Emilion Grand Cru,Grand Cru,Libournais
+1308,Saint-Emilion Grand Cru,Premier Cru,Libournais
+1309,Saint-Estèphe,Communale,Médoc
+1310,Saint-Georges-Saint-Emilion,Communale,Libournais
+1311,Saint-Guilhem-le-Désert,IGP,Languedoc
+1312,Saint-Guilhem-le-Désert Cité d'Aniane,IGP,Languedoc
+1313,Saint-Guilhem-le-Désert Val de Montferrand,IGP,Languedoc
+1314,Saint-Joseph,Communale,Septentrional
+1315,Saint-Julien,Communale,Médoc
+1316,Saint-Mont,Communale,Piémont Pyrénéen
+1317,Saint-Nicolas-de-Bourgueil,Communale,Touraine
+1318,Saint-Péray,Communale,Septentrional
+1319,Saint-Pourçain,Communale,Centre
+1320,Saint-Pourçain Val de Loire,Communale,Centre
+1321,Saint-Romain,Communale,Côte de Beaune
+1322,Saint-Romain ou Saint-Romain Côte de Beaune,,
+1323,Saint-Sardos,Communale,Agen
+1324,Saint-Véran,Communale,Mâconnais
+1325,Sancerre,Communale,Centre
+1326,Santenay,Communale,Côte de Beaune
+1327,Santenay ou Santenay Côte de Beaune,,
+1328,Santenay Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1329,Santenay Premier Cru Beauregard,Premier Cru,Côte de Beaune
+1330,Santenay Premier Cru Beaurepaire,Premier Cru,Côte de Beaune
+1331,Santenay Premier Cru Clos des Mouches,Premier Cru,Côte de Beaune
+1332,Santenay Premier Cru Clos de Tavannes,Premier Cru,Côte de Beaune
+1333,Santenay Premier Cru Clos Faubard,Premier Cru,Côte de Beaune
+1334,Santenay Premier Cru Clos Rousseau,Premier Cru,Côte de Beaune
+1335,Santenay Premier Cru Grand Clos Rousseau,Premier Cru,Côte de Beaune
+1336,Santenay Premier Cru La Comme,Premier Cru,Côte de Beaune
+1337,Santenay Premier Cru La Maladière,Premier Cru,Côte de Beaune
+1338,Santenay Premier Cru Les Gravières,Premier Cru,Côte de Beaune
+1339,Santenay Premier Cru Les Gravières-Clos de Tavannes,Premier Cru,Côte de Beaune
+1340,Santenay Premier Cru Passetemps,Premier Cru,Côte de Beaune
+1341,Saône-et-Loire,IGP,Bourgogne
+1342,Saumur,Régionale,Anjou-Saumur
+1343,Saumur-Champigny,Communale,Anjou-Saumur
+1344,Saumur Puy-Notre-Dame,Communale,Anjou-Saumur
+1345,Saussignac,Communale,Bergerac
+1346,Sauternes,Communale,Sauternais
+1347,Savennières,Communale,Anjou-Saumur
+1348,Savennières Roche aux Moines,Communale,Anjou-Saumur
+1349,Savigny-lès-Beaune,Communale,Côte de Beaune
+1350,Savigny-lès-Beaune ou Savigny-lès-Beaune Côte de Beaune,,
+1351,Savigny-lès-Beaune Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1352,Savigny-lès-Beaune Premier Cru Aux Clous,Premier Cru,Côte de Beaune
+1353,Savigny-lès-Beaune Premier Cru Aux Fourneaux,Premier Cru,Côte de Beaune
+1354,Savigny-lès-Beaune Premier Cru Aux Gravains,Premier Cru,Côte de Beaune
+1355,Savigny-lès-Beaune Premier Cru Aux Guettes,Premier Cru,Côte de Beaune
+1356,Savigny-lès-Beaune Premier Cru Aux Serpentières,Premier Cru,Côte de Beaune
+1357,Savigny-lès-Beaune Premier Cru Basses Vergelesses,Premier Cru,Côte de Beaune
+1358,Savigny-lès-Beaune Premier Cru Bataillère,Premier Cru,Côte de Beaune
+1359,Savigny-lès-Beaune Premier Cru Champ Chevrey,Premier Cru,Côte de Beaune
+1360,Savigny-lès-Beaune Premier Cru La Dominode,Premier Cru,Côte de Beaune
+1361,Savigny-lès-Beaune Premier Cru Les Charnières,Premier Cru,Côte de Beaune
+1362,Savigny-lès-Beaune Premier Cru Les Hauts Jarrons,Premier Cru,Côte de Beaune
+1363,Savigny-lès-Beaune Premier Cru Les Hauts Marconnets,Premier Cru,Côte de Beaune
+1364,Savigny-lès-Beaune Premier Cru Les Jarrons,Premier Cru,Côte de Beaune
+1365,Savigny-lès-Beaune Premier Cru Les Lavières,Premier Cru,Côte de Beaune
+1366,Savigny-lès-Beaune Premier Cru Les Marconnets,Premier Cru,Côte de Beaune
+1367,Savigny-lès-Beaune Premier Cru Les Narbantons,Premier Cru,Côte de Beaune
+1368,Savigny-lès-Beaune Premier Cru Les Peuillets,Premier Cru,Côte de Beaune
+1369,Savigny-lès-Beaune Premier Cru Les Rouvrettes,Premier Cru,Côte de Beaune
+1370,Savigny-lès-Beaune Premier Cru Les Talmettes,Premier Cru,Côte de Beaune
+1371,Savigny-lès-Beaune Premier Cru Les Vergelesses,Premier Cru,Côte de Beaune
+1372,Savigny-lès-Beaune Premier Cru Petits Godeaux,Premier Cru,Côte de Beaune
+1373,Savigny-lès-Beaune Premier Cru Redrescul,Premier Cru,Côte de Beaune
+1374,Savoie,Régionale,Savoie
+1376,Savoie Apremont,Communale,Savoie
+1377,Savoie Arbin,Communale,Savoie
+1378,Savoie Ayze,Communale,Savoie
+1379,Savoie Chautagne,Communale,Savoie
+1380,Savoie Chignin,Communale,Savoie
+1381,Savoie Chignin-Bergeron,Communale,Savoie
+1382,Savoie Crépy,Communale,Savoie
+1383,Savoie Cruet,Communale,Savoie
+1384,Savoie Jongieux,Communale,Savoie
+1386,Savoie Marignan,Communale,Savoie
+1387,Savoie Marin,Communale,Savoie
+1388,Savoie Montmélian,Communale,Savoie
+1389,Savoie Ripaille,Communale,Savoie
+1390,Savoie Saint-Jean-de-la-Porte,Communale,Savoie
+1391,Savoie Saint-Jeoire-Prieuré,Communale,Savoie
+1392,Seyssel,Régionale,Savoie
+1393,Tavel,Communale,Méridional
+1394,Terrasses du Larzac,Premier Cru,Languedoc
+1395,Thézac-Perricard,IGP,Sud-Ouest
+1396,Touraine,Régionale,Touraine
+1397,Touraine Amboise,Communale,Touraine
+1398,Touraine Azay-le-Rideau,Communale,Touraine
+1399,Touraine Chenonceaux,Communale,Touraine
+1400,Touraine Mesland,Communale,Touraine
+1401,Touraine Noble Joué,Communale,Touraine
+1402,Touraine Oisly,Communale,Touraine
+1403,Tursan,Communale,Piémont Pyrénéen
+1404,Urfé,IGP,Auvergne
+1405,Urfé Ambierle,IGP,Auvergne
+1406,Urfé Trelins,IGP,Auvergne
+1407,Vacqueyras,Communale,Méridional
+1408,Val de Loire,IGP,Loire
+1409,Val de Loire Allier,IGP,Loire
+1410,Val de Loire Cher,IGP,Loire
+1411,Val de Loire Indre,IGP,Loire
+1412,Val de Loire Indre-et-Loire,IGP,Loire
+1413,Val de Loire Loire-Atlantique,IGP,Loire
+1414,Val de Loire Loiret,IGP,Loire
+1415,Val de Loire Loir-et-Cher,IGP,Loire
+1416,Val de Loire Maine-et-Loire,IGP,Loire
+1417,Val de Loire Marches de Bretagne,IGP,Loire
+1418,Val de Loire Nièvre,IGP,Loire
+1419,Val de Loire Pays de Retz,IGP,Loire
+1420,Val de Loire Sarthe,IGP,Loire
+1421,Val de Loire Vendée,IGP,Loire
+1422,Val de Loire Vienne,IGP,Loire
+1423,Valençay,Régionale,Centre
+1424,Vallée du Paradis,IGP,Languedoc
+1425,Vallée du Torgan,IGP,Roussillon
+1426,Var,IGP,Provence
+1427,Var Argens,IGP,Provence
+1428,Var Coteaux du Verdon,IGP,Provence
+1429,Var Sainte Baume,IGP,Provence
+1430,Vaucluse,IGP,Méridional
+1431,Vaucluse Aigues,IGP,Méridional
+1432,Vaucluse Principauté d'Orange,IGP,Méridional
+1433,Ventoux,Communale,Méridional
+1434,Vézelay,Communale,Auxerrois
+1435,Vicomté d'Aumelas,IGP,Languedoc
+1436,Vicomté d'Aumelas Vallée Dorée,IGP,Languedoc
+1437,Vin de Corse Calvi ou Corse Calvi,Communale,Corse
+1438,Vin de Corse Coteaux du Cap Corse ou Corse Coteaux du Cap Corse,Communale,Corse
+1439,Vin de Corse ou Corse,Communale,Corse
+1440,Vin de Corse ou Corse Figari,Communale,Corse
+1441,Vin de Corse Porto-Vecchio ou Corse Porto-Vecchio,Communale,Corse
+1442,Vin de Corse Sartène ou Corse Sartène,Communale,Corse
+1443,Vin des Allobroges,IGP,Savoie
+1444,Vin de Savoie Abymes ou Les Abymes,Communale,Savoie
+1445,Vin de Savoie Apremont,Communale,Savoie
+1446,Vin de Savoie Arbin,Communale,Savoie
+1447,Vin de Savoie Ayze,Communale,Savoie
+1448,Vin de Savoie Chautagne,Communale,Savoie
+1449,Vin de Savoie Chignin,Communale,Savoie
+1450,Vin de Savoie Chignin-Bergeron,Communale,Savoie
+1451,Vin de Savoie Crépy,Communale,Savoie
+1452,Vin de Savoie Cruet,Communale,Savoie
+1453,Vin de Savoie Jongieux,Communale,Savoie
+1454,Vin de Savoie Marignan,Communale,Savoie
+1455,Vin de Savoie Marin,Communale,Savoie
+1456,Vin de Savoie Montmélian,Communale,Savoie
+1457,Vin de Savoie ou Savoie,Régionale,Savoie
+1458,Vin de Savoie Ripaille,Communale,Savoie
+1459,Vin de Savoie Saint-Jean-de-la-Porte,Communale,Savoie
+1460,Vin de Savoie Saint-Jeoire-Prieuré,Communale,Savoie
+1461,Vinsobres,Communale,Méridional
+1462,Viré-Clessé,Communale,Mâconnais
+1463,Volnay,Communale,Côte de Beaune
+1464,Volnay Premier Cru,Groupe de Premiers Crus,Côte de Beaune
+1465,Volnay Premier Cru Carelle sous la Chapelle,Premier Cru,Côte de Beaune
+1466,Volnay Premier Cru Champans,Premier Cru,Côte de Beaune
+1467,Volnay Premier Cru Clos de la Barre,Premier Cru,Côte de Beaune
+1468,Volnay Premier Cru Clos de la Bousse-d'Or,Premier Cru,Côte de Beaune
+1469,Volnay Premier Cru Clos de la Cave des Ducs,Premier Cru,Côte de Beaune
+1470,Volnay Premier Cru Clos de la Chapelle,Premier Cru,Côte de Beaune
+1471,Volnay Premier Cru Clos de la Rougeotte,Premier Cru,Côte de Beaune
+1472,Volnay Premier Cru Clos de l'Audignac,Premier Cru,Côte de Beaune
+1473,Volnay Premier Cru Clos des 60 ouvrées,Premier Cru,Côte de Beaune
+1474,Volnay Premier Cru Clos des Chênes,Premier Cru,Côte de Beaune
+1475,Volnay Premier Cru Clos des Ducs,Premier Cru,Côte de Beaune
+1476,Volnay Premier Cru Clos du Château des Ducs,Premier Cru,Côte de Beaune
+1477,Volnay Premier Cru Clos du Verseuil,Premier Cru,Côte de Beaune
+1478,Volnay Premier Cru En Chevret,Premier Cru,Côte de Beaune
+1479,Volnay Premier Cru Frémiets,Premier Cru,Côte de Beaune
+1480,Volnay Premier Cru Frémiets - Clos de la Rougeotte,Premier Cru,Côte de Beaune
+1481,Volnay Premier Cru La Gigotte,Premier Cru,Côte de Beaune
+1482,Volnay Premier Cru Lassolle,Premier Cru,Côte de Beaune
+1483,Volnay Premier Cru Le Ronceret,Premier Cru,Côte de Beaune
+1484,Volnay Premier Cru Les Angles,Premier Cru,Côte de Beaune
+1485,Volnay Premier Cru Les Brouillards,Premier Cru,Côte de Beaune
+1486,Volnay Premier Cru Les Caillerets,Premier Cru,Côte de Beaune
+1487,Volnay Premier Cru Les Lurets,Premier Cru,Côte de Beaune
+1488,Volnay Premier Cru Les Mitans,Premier Cru,Côte de Beaune
+1489,Volnay Premier Cru Le Village,Premier Cru,Côte de Beaune
+1490,Volnay Premier Cru Pitures Dessus,Premier Cru,Côte de Beaune
+1491,Volnay Premier Cru Robardelle,Premier Cru,Côte de Beaune
+1492,Volnay Premier Cru Santenots,Premier Cru,Côte de Beaune
+1493,Volnay Premier Cru Taille Pieds,Premier Cru,Côte de Beaune
+1494,Vosne-Romanée,Communale,Côte de Nuits
+1495,Vosne-Romanée Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+1496,Vosne-Romanée Premier Cru Au-dessus des Malconsorts,Premier Cru,Côte de Nuits
+1497,Vosne-Romanée Premier Cru Aux Brulées,Premier Cru,Côte de Nuits
+1498,Vosne-Romanée Premier Cru Aux Malconsorts,Premier Cru,Côte de Nuits
+1499,Vosne-Romanée Premier Cru Aux Raignots,Premier Cru,Côte de Nuits
+1500,Vosne-Romanée Premier Cru Clos des Réas,Premier Cru,Côte de Nuits
+1501,Vosne-Romanée Premier Cru Cros Parantoux,Premier Cru,Côte de Nuits
+1502,Vosne-Romanée Premier Cru En Orveaux,Premier Cru,Côte de Nuits
+1503,Vosne-Romanée Premier Cru La Croix Rameau,Premier Cru,Côte de Nuits
+1504,Vosne-Romanée Premier Cru Les Beaux Monts,Premier Cru,Côte de Nuits
+1505,Vosne-Romanée Premier Cru Les Chaumes,Premier Cru,Côte de Nuits
+1506,Vosne-Romanée Premier Cru Les Gaudichots,Premier Cru,Côte de Nuits
+1507,Vosne-Romanée Premier Cru Les Petits Monts,Premier Cru,Côte de Nuits
+1508,Vosne-Romanée Premier Cru Les Rouges,Premier Cru,Côte de Nuits
+1509,Vosne-Romanée Premier Cru Les Suchots,Premier Cru,Côte de Nuits
+1510,Vougeot,Communale,Côte de Nuits
+1511,Vougeot Premier Cru,Groupe de Premiers Crus,Côte de Nuits
+1512,Vougeot Premier Cru Clos de la Perrière,Premier Cru,Côte de Nuits
+1513,Vougeot Premier Cru Le Clos Blanc,Premier Cru,Côte de Nuits
+1514,Vougeot Premier Cru Les Crâs,Premier Cru,Côte de Nuits
+1515,Vougeot Premier Cru Les Petits Vougeots,Premier Cru,Côte de Nuits
+1516,Vouvray,Régionale,Touraine
+1517,Yonne,IGP,Bourgogne
+1518,Champagne Grand Cru Ambonnay,Grand Cru,Champagne
+1519,Champagne Grand Cru Tours sur Marne,Grand Cru,Champagne
+1520,Champagne Grand Cru Verzenay,Grand Cru,Champagne
+1521,Champagne Grand Cru Verzy,Grand Cru,Champagne
+1522,Champagne Grand Cru Aÿ,Grand Cru,Champagne
+1523,Champagne Grand Cru Avize,Grand Cru,Champagne
+1524,Champagne Grand Cru Beaumont-sur-Vesle,Grand Cru,Champagne
+1525,Champagne Grand Cru Bouzy,Grand Cru,Champagne
+1526,Champagne Grand Cru Chouilly,Grand Cru,Champagne
+1527,Champagne Grand Cru Cramant,Grand Cru,Champagne
+1528,Champagne Grand Cru Louvois,Grand Cru,Champagne
+1529,Champagne Grand Cru Mailly-Champagne,Grand Cru,Champagne
+1530,Champagne Grand Cru Le-Mesnil-sur-Oger,Grand Cru,Champagne
+1531,Champagne Grand Cru Oger,Grand Cru,Champagne
+1532,Champagne Grand Cru Oiry,Grand Cru,Champagne
+1533,Champagne Grand Cru Puisieulx,Grand Cru,Champagne
+1534,Champagne Grand Cru Sillery,Grand Cru,Champagne
+1535,Champagne Premier Cru Mareuil-sur-Aÿ,Premier Cru,Champagne
+1536,Champagne Premier Cru Bisseuil,Premier Cru,Champagne
+1537,Champagne Premier Cru Bergères-lès-Vertus,Premier Cru,Champagne
+1538,Champagne Premier Cru Bezannes,Premier Cru,Champagne
+1539,Champagne Premier Cru Billy-le-Grand,Premier Cru,Champagne
+1540,Champagne Premier Cru Chamery,Premier Cru,Champagne
+1541,Champagne Premier Cru Champillon,Premier Cru,Champagne
+1542,Champagne Premier Cru Chigny-lès-Roses,Premier Cru,Champagne
+1543,Champagne Premier Cru Coligny,Premier Cru,Champagne
+1544,Champagne Premier Cru Cormontreuil,Premier Cru,Champagne
+1545,Champagne Premier Cru Coulommes-la-Montagne,Premier Cru,Champagne
+1546,Champagne Premier Cru Cuis,Premier Cru,Champagne
+1547,Champagne Premier Cru Cumières,Premier Cru,Champagne
+1548,Champagne Premier Cru Dizy,Premier Cru,Champagne
+1549,Champagne Premier Cru Ecueil,Premier Cru,Champagne
+1550,Champagne Premier Cru Etrechy,Premier Cru,Champagne
+1551,Champagne Premier Cru Grauves,Premier Cru,Champagne
+1552,Champagne Premier Cru Hautvillers,Premier Cru,Champagne
+1553,Champagne Premier Cru Jouy-lès-Reims,Premier Cru,Champagne
+1554,Champagne Premier Cru Ludes,Premier Cru,Champagne
+1555,Champagne Premier Cru Les Mesneux,Premier Cru,Champagne
+1556,Champagne Premier Cru Montbré,Premier Cru,Champagne
+1557,Champagne Premier Cru Mutigny,Premier Cru,Champagne
+1558,Champagne Premier Cru Pargny-lès-Reims,Premier Cru,Champagne
+1559,Champagne Premier Cru Pierry,Premier Cru,Champagne
+1560,Champagne Premier Cru Rilly-la-Montagne,Premier Cru,Champagne
+1561,Champagne Premier Cru Sacy,Premier Cru,Champagne
+1562,Champagne Premier Cru Sermiers,Premier Cru,Champagne
+1563,Champagne Premier Cru Taissy,Premier Cru,Champagne
+1564,Champagne Premier Cru Tauxières,Premier Cru,Champagne
+1565,Champagne Premier Cru Trépail,Premier Cru,Champagne
+1566,Champagne Premier Cru Trois-Puits,Premier Cru,Champagne
+1567,Champagne Premier Cru Vaudemanges,Premier Cru,Champagne
+1568,Champagne Premier Cru Vertus,Premier Cru,Champagne
+1569,Champagne Premier Cru Villedommange,Premier Cru,Champagne
+1570,Champagne Premier Cru Villeneuve-Renneville,Premier Cru,Champagne
+1571,Champagne Premier Cru Villers-aux-Noeuds,Premier Cru,Champagne
+1572,Champagne Premier Cru Villers-Marmery,Premier Cru,Champagne
+1573,Champagne Premier Cru Voipreux,Premier Cru,Champagne
+1574,Champagne Premier Cru Vrigny,Premier Cru,Champagne
+1575,Champagne Premier Cru Avenay-Val-d'Or,Premier Cru,Champagne
+1883,Saint-Pourçain,,
